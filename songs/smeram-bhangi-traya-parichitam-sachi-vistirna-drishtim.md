@@ -1,6 +1,6 @@
 ---
 page: 269
-author: Śrīla Rūpa Goswāmī
+author: Śrīla Rūpa Goswāmī Prabhu
 first_line: smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣṭiṁ
 ---
 
@@ -15,5 +15,5 @@ first_line: smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣ�
 
 My dear friend, if you are indeed attached to your worldly friends, do not look at the smiling face of Lord Govinda as He stands on the bank of the Yamunā at Keśī Ghāṭa. Casting sidelong glances, He rests the tender blossoms of His lips upon His flute. His transcendental body, bending in three places, appears very bright in the moonlight.
 
-*Corresponding Bengali composition:*
+*Corresponding Bengali composition: (see next page)*
 

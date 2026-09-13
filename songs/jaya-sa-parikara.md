@@ -1,99 +1,102 @@
 ---
 page: 30
 first_line: Jaya Saparikar
+verse parentheses: non bold
 ---
 
 # Jaya Dhvani
 
 *This is not a comprehensive list, but a guideline to the glorifications chanted at the end of each ārati in the Temple. It is flexible.*
 
-Jaya Saparikar Śrī Śrī Guru Gaurāṅga Gāndharvā Govindasundar-jīu kī jaya!
+    Jaya Saparikar Śrī Śrī Guru Gaurāṅga Gāndharvā Govindasundar-jīu kī jaya!
 
-Jaya Saparikar Śrī Śrī [*the Names of the local Temple Deities*] kī jaya!
+    Jaya Saparikar Śrī Śrī (the Names of the local Temple Deities) kī jaya!
 
-Jaya Om Viṣṇupād Paramahaṁsa Parivrājakāchārya-varya Aṣṭottara-śata-śrī Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj kī jaya!
+    Jaya Om Viṣṇupād Paramahaṁsa Parivrājakāchārya-varya Aṣṭottara-śata-śrī Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj kī jaya!
 
-Jaya Om Viṣṇupād Paramahaṁsa Parivrājakāchārya-varya Aṣṭottara-śata-śrī Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj kī jaya!
+    Jaya Om Viṣṇupād Paramahaṁsa Parivrājakāchārya-varya Aṣṭottara-śata-śrī Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj kī jaya!
 
-Jaya Om Viṣṇupād Bhagavān Śrī Śrīla Bhakti Siddhānta Saraswatī Ṭhākur kī jaya!
+    Jaya Om Viṣṇupād Bhagavān Śrī Śrīla Bhakti Siddhānta Saraswatī Ṭhākur kī jaya!
 
-Jaya Om Viṣṇupād Śrīla Gaura Kiśor Dās Bābājī Mahārāj kī jaya!
+    Jaya Om Viṣṇupād Śrīla Gaura Kiśor Dās Bābājī Mahārāj kī jaya!
 
-Jaya Om Viṣṇupād Śrīla Sachchidānanda Bhakti Vinod Ṭhākur kī jaya!
+    Jaya Om Viṣṇupād Śrīla Sachchidānanda Bhakti Vinod Ṭhākur kī jaya!
 
-Jaya Om Viṣṇupād Śrīla Jagannātha Dās Bābājī Mahārāj kī jaya!
+    Jaya Om Viṣṇupād Śrīla Jagannātha Dās Bābājī Mahārāj kī jaya!
 
-Jaya Śrī Rūpānuga Guru-varga kī jaya!
+    Jaya Śrī Rūpānuga Guru-varga kī jaya!
 
-Jaya Viśva-vareṇya Śrīla A.C. Bhaktivedānta Swāmī Prabhupād kī jaya!
+    Jaya Viśva-vareṇya Śrīla A.C. Bhaktivedānta Swāmī Prabhupād kī jaya!
 
-Jaya Śrīla Baladev Vidyābhūṣaṇ kī jaya!
+    Jaya Śrīla Baladev Vidyābhūṣaṇ kī jaya!
 
-Jaya Śrīla Viśvanāth Chakravartī Ṭhākur kī jaya!
+    Jaya Śrīla Viśvanāth Chakravartī Ṭhākur kī jaya!
 
-Jaya Śrī Śrī Narottam, Śyāmānanda, Śrīnivās – Prabhu-traya kī jaya!
+    Jaya Śrī Śrī Narottam, Śyāmānanda, Śrīnivās – Prabhu-traya kī jaya!
 
-Jaya Śrīla Kṛṣṇa Dās Kavirāj Goswāmī kī jaya!
+    Jaya Śrīla Kṛṣṇa Dās Kavirāj Goswāmī kī jaya!
 
-Jaya Śrīla Vṛndāvan Dās Ṭhākur kī jaya!
+    Jaya Śrīla Vṛndāvan Dās Ṭhākur kī jaya!
 
-Jaya Śrī Rūpa, Sanātan, Bhaṭṭa Raghunāth, Śrī Jīva, Gopāl Bhaṭṭa, Dās Raghunāth – Śrī Ṣaḍ Goswāmī Prabhu kī jaya!
+    Jaya Śrī Rūpa, Sanātan, Bhaṭṭa Raghunāth, Śrī Jīva, Gopāl Bhaṭṭa, Dās Raghunāth – Śrī Ṣaḍ Goswāmī Prabhu kī jaya!
 
-Jaya Śrīla Svarūp Dāmodar, Śrīla Rāy Rāmānanda kī jaya!
+    Jaya Śrīla Svarūp Dāmodar, Śrīla Rāy Rāmānanda kī jaya!
 
-Jaya Namāchārya Śrīla Hari Dās Ṭhākur kī jaya!
+    Jaya Namāchārya Śrīla Hari Dās Ṭhākur kī jaya!
 
-Jaya Śrī Kṛṣṇa Chaitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhar, Śrīvās-ādi Gaura-bhakta-vṛnda kī jaya!
+    Jaya Śrī Kṛṣṇa Chaitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhar, Śrīvās-ādi Gaura-bhakta-vṛnda kī jaya!
 
-Jaya Sapārṣada Śrī Nityānanda Prabhu kī jaya!
+    Jaya Sapārṣada Śrī Nityānanda Prabhu kī jaya!
 
-Jaya Sapārṣada Śrīman Mahāprabhu kī jaya!
+    Jaya Sapārṣada Śrīman Mahāprabhu kī jaya!
 
-Jaya Śrī Nabadwīp Dhām kī jaya!
+    Jaya Śrī Nabadwīp Dhām kī jaya!
 
-Jaya Śrī Chaitanya Sāraswat Maṭh kī jaya!
+    Jaya Śrī Chaitanya Sāraswat Maṭh kī jaya!
 
-Jaya Śrī Gaṅgā-mayī, Śrī Yamunā-mayī kī jaya!
+    Jaya Śrī Gaṅgā-mayī, Śrī Yamunā-mayī kī jaya!
 
-Jaya Śrī Vṛndāvan Dhām kī jaya!
+    Jaya Śrī Vṛndāvan Dhām kī jaya!
 
-Jaya Śrī Śrī Rādhā-Kṛṣṇa, Gopa, Gopī, Gopīnāth, Śyāma Kuṇḍa, Rādhā Kuṇḍa, Girirāj Govardhan kī jaya!
+    Jaya Śrī Śrī Rādhā-Kṛṣṇa, Gopa, Gopī, Gopīnāth, Śyāma Kuṇḍa, Rādhā Kuṇḍa, Girirāj Govardhan kī jaya!
 
-Jaya Bhakti Devī, Vṛndā Devī, Tulasī Devī, kī jaya!
+    Jaya Bhakti Devī, Vṛndā Devī, Tulasī Devī, kī jaya!
 
-Jaya Śrī Puruṣottam Dhām kī jaya!
+    Jaya Śrī Puruṣottam Dhām kī jaya!
 
-Jaya Baladev, Subhadrā, Jagannātha-jīu kī jaya!
+    Jaya Baladev, Subhadrā, Jagannātha-jīu kī jaya!
 
-Jaya Grantharāj Śrīmad Bhāgavatam kī jaya!
+    Jaya Grantharāj Śrīmad Bhāgavatam kī jaya!
 
-Jaya Grantharāj Śrī Chaitanya Charitāmṛta kī jaya!
+    Jaya Grantharāj Śrī Chaitanya Charitāmṛta kī jaya!
 
-Jaya Ākara Maṭh Rāja Śrī Chaitanya Maṭh kī jaya!
+    Jaya Ākara Maṭh Rāja Śrī Chaitanya Maṭh kī jaya!
 
-Jaya Tadīya Śākhā Maṭh kī jaya!
+    Jaya Tadīya Śākhā Maṭh kī jaya!
 
-Jaya Viśva-vyāpī Tadīya Śākhā Maṭh kī jaya!
+    Jaya Viśva-vyāpī Tadīya Śākhā Maṭh kī jaya!
 
-Jaya Śuddha Bhakti Vighna Vināśāya Śrī Nṛsiṁhadeva kī jaya!
+    Jaya Śuddha Bhakti Vighna Vināśāya Śrī Nṛsiṁhadeva kī jaya!
 
-Jaya Bhakta-pravara Prahlād Mahārāj kī jaya!
+    Jaya Bhakta-pravara Prahlād Mahārāj kī jaya!
 
-Jaya Ananta-koṭī Vaiṣṇava-vṛnda kī jaya!
+    Jaya Ananta-koṭī Vaiṣṇava-vṛnda kī jaya!
 
-Jaya Samaveta Vaiṣṇava-maṇḍala kī jaya!
+    Jaya Samaveta Vaiṣṇava-maṇḍala kī jaya!
 
-Jaya Samaveta Bhakta-vṛnda kī jaya!
+    Jaya Samaveta Bhakta-vṛnda kī jaya!
 
-Jaya Śrī Harināma-saṅkīrtan kī jaya!
+    Jaya Śrī Harināma-saṅkīrtan kī jaya!
 
-Śrī Chaitanya Sāraswat Āchārya-vṛnda kī jaya!
+    Śrī Chaitanya Sāraswat Āchārya-vṛnda kī jaya!
 
-Śrī Sannyāsa Bhakta-vṛnda kī jaya!
+    Śrī Sannyāsa Bhakta-vṛnda kī jaya!
 
-[Names of sannyasīs/senior Vaiṣṇavas present in the assembly, kī jaya!]
+    (Names of sannyasīs/senior Vaiṣṇavas present in the assembly, kī jaya!)
 
-Nitāi Gaura Premānande! Haribol!
+    Nitāi Gaura Premānande! Haribol!
+
+## Translations of key phrases
 
 **Āchārya-varya** – The best, preferred, beloved teacher
 

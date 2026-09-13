@@ -5,7 +5,7 @@ first_line: bhagavad-bhaktitaḥ sarvam
 
 # You Will Receive Everything
 
-### Śrila Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 In a verse from his *Prapanna-jīvanāmṛtam* Śrīla Guru Mahārāj has given us a very nice, clear explanation of śaraṇāgati that is a perfect jewel you cannot find anywhere else. It is the most essential prescription given anywhere for everyone to enter the transcendental service world. If you can memorise just this one verse and put it in your heart, then you will receive everything ever given in any scripture.
 

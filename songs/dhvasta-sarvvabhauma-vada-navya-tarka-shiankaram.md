@@ -2,7 +2,7 @@
 page: 94
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: dhvasta-sārvabhauma-vāda-navya-tarka-śāṅkaraṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Monday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 21-30. Monday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

@@ -1,9 +1,9 @@
 ---
 page: 213
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: asat-saṅga tyāji’ sādhu-saṅga kara bhāi
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Verse Four
+  - Śrī Śrī Upadeśāmṛta - Verse 4
   - dadāti pratigṛhṇāti guhyam ākhyāti pṛchchhati
 ---
 

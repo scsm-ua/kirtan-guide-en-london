@@ -1,9 +1,9 @@
 ---
 page: 212
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: ānukūlya-saṅkalpera chhaya aṅga sāra
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Verse Three
+  - Śrī Śrī Upadeśāmṛta - Verse 3
   - utsāhān niśchayād dhairyāt tat-tat-karma-pravartanāt
 ---
 

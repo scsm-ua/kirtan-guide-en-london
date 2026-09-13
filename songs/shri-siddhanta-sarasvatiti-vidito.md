@@ -1,5 +1,6 @@
 ---
 page: 18
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: śrī-siddhānta-sarasvatīti-vidito gauḍīya-gurv-anvaye
 ---
 

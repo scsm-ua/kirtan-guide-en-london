@@ -11,7 +11,6 @@ first_line: prabhu kahe – “kahilāṅ ei mahāmantra...”
 ### by Śrīla Vṛndāvan Dās Ṭhākur
 
     “hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-    
     hare rāma hare rāma rāma rāma hare hare”
     
     prabhu kahe – “kahilāṅ ei mahāmantra

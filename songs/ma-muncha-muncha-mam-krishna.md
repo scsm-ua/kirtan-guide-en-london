@@ -1,6 +1,6 @@
 ---
 page: 320
-author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj.
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: mā muñcha muñcha māṁ kṛṣṇa!
 ---
 

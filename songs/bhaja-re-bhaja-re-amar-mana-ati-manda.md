@@ -2,6 +2,7 @@
 page: 60
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: bhaja re bhaja re āmār mana ati manda
+verse parentheses: non bold
 ---
 
 # Bhajan-gīti
@@ -13,9 +14,7 @@ first_line: bhaja re bhaja re āmār mana ati manda
     bhaja re bhaja re āmār mana ati manda
         (bhajan vinā gati nāi re)
         (vraja-vane rādhā-kṛṣṇa bhajan vinā gati nāi re)
-    
     (bhaja) vraja-vane rādhā-kṛṣṇa-charaṇāravinda
-
         (jñāna-karma parihari’ re)
         (śuddha rāga-patha dhari’ jñāna-karma parihari’ re)
 
@@ -24,10 +23,8 @@ O my mind, how foolish you are. Just worship the lotus feet of Rādhā and Krish
 #### 2
 
     (bhaja) gaura-gadādharādvaita-guru-nityānanda
-    
         (gaura-kṛṣṇe abheda jene re)
         (guru kṛṣṇa-priya jene gaura-kṛṣṇe abheda jene re)
-    
     (smara) śrīnivāsa, haridāsa, murāri, mukunda
         (gaura-preme smara smara re)
         (śrīnivāsa, haridāse, gaura-preme smara smara re)
@@ -37,12 +34,9 @@ You should worship and serve Lord Gaura, Gadādhara, Advaita, and the original S
 #### 3
 
     (smara) rūpa-sanātana-jīva-raghunātha-dvandva
-    
         (yadi bhajan karbe re)
         (rūpa-sanātane smara yadi bhajan karbe re)
-    
     (smara) rāghava-gopāla-bhaṭṭa-svarūpa-rāmānanda
-
         (kṛṣṇa-prema yadi chāo re)
         (svarūpa-rāmānande smara kṛṣṇa-prema yadi chāo re)
 
@@ -51,12 +45,9 @@ You should remember the Goswāmīs of Vṛndāvan: Śrī Rūpa Goswāmī, Sanāt
 #### 4
 
     (smara) goṣṭhī-saha karṇapura sena-śivānanda
-    
         (ajasra smara smara re)
         (goṣṭhī-saha sena śivānande ajasra smara smara re)
-    
     (smara) rūpānuga sādhu-jana bhajana-ānanda
-
         (vraje vās yadi chāo re)
         (rūpānuga sādhu-jane smara vraje vās yadi chāo re)
 

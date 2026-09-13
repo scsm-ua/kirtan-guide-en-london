@@ -2,7 +2,7 @@
 page: 112
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalaṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Friday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 61-72. Friday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

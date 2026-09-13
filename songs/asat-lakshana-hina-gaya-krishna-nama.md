@@ -1,9 +1,9 @@
 ---
 page: 214
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: asat lakṣaṇa-hīna gāya kṛṣṇa-nāma
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Verse Five
+  - Śrī Śrī Upadeśāmṛta - Verse 5
   - kṛṣṇeti yasya giri taṁ manasādriyeta
 ---
 

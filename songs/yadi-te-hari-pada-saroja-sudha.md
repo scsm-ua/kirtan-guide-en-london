@@ -1,6 +1,6 @@
 ---
 page: 144
-author: Śrīla Bhakti Vinod Ṭhākur (in 1893)
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: yadi te hari-pāda-saroja-sudhā
 ---
 

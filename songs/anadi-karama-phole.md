@@ -1,9 +1,9 @@
 ---
 page: 198
-author: Śrī Chaitanya Mahāprabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: anādi karama-phale paḍi’ bhavārṇava-jale
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam Verse Five
+  - Śrī Śikṣāṣṭakam - Verse 5
   - ayi nanda-tanuja kiṅkaraṁ
 ---
 

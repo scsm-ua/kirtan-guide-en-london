@@ -1,5 +1,6 @@
 ---
 page: 21
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: gauḍa-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham
 ---
 

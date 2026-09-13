@@ -5,7 +5,7 @@ first_line: mātala hari-jana kīrtana-raṅge
 
 # Honouring Rāga-mārg From Afar
 
-### Śrila Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 Śrīla Prabhupād Saraswatī Ṭhākur preached:
 

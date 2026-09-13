@@ -1,11 +1,12 @@
 ---
 page: 24
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 first_line: dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
 ---
 
 # Śrī Śrī Guru-Gaurāṅga-Gāndharvā-Govindasundarjīu
 
-### Nabadwīp, Śrī Chaitanya Sāraswat Maṭh
+## Nabadwīp, Śrī Chaitanya Sāraswat Maṭh
 
     dīvyad-vṛndāraṇya-kalpa-drumādhaḥ-
     śrīmad-ratnāgāra-siṁhāsana-sthau

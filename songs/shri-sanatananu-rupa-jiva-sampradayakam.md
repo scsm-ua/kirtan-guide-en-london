@@ -2,7 +2,7 @@
 page: 108
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: śrī-sanātanānurūpa-jīva-sampradāyakaṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Thursday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 51-60. Thursday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

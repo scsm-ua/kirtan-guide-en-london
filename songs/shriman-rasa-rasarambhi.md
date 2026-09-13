@@ -1,11 +1,12 @@
 ---
 page: 25
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 first_line: śrīmān rāsa-rasārambhī vaṁśī-vaṭa-taṭa-sthitaḥ
 ---
 
 # Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu
 
-### Hāpāniyā, Śrī Chaitanya Sāraswat Āśram
+## Hāpāniyā, Śrī Chaitanya Sāraswat Āśram
 
     śrīmān rāsa-rasārambhī vaṁśī-vaṭa-taṭa-sthitaḥ
     karṣan veṇu-svanair gopīr gopīnāthaḥ śriye ’stu naḥ

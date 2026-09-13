@@ -1,9 +1,9 @@
 ---
 page: 210
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: atyāhāra prayāsa prajalpa jana-saṅga
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Verse Two
+  - Śrī Śrī Upadeśāmṛta - Verse 2
   - atyāhāraḥ prayāsaś cha prajalpo niyamāgrahaḥ
 ---
 

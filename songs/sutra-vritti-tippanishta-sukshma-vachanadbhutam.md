@@ -2,7 +2,7 @@
 page: 91
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Sunday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 11-20. Sunday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

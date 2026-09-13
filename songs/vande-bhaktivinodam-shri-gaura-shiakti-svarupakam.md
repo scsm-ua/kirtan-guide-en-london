@@ -1,5 +1,6 @@
 ---
 page: 20
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam
 ---
 

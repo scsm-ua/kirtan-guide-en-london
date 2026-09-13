@@ -1,9 +1,9 @@
 ---
 page: 219
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: chid-anveṣī jñānī jaḍa-karmī ha-ite śreṣṭha
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Verse Ten
+  - Śrī Śrī Upadeśāmṛta - Verse 10
   - karmibhyaḥ parito hareḥ priyatayā vyaktiṁ yayur jñāninas
 ---
 

@@ -1,5 +1,6 @@
 ---
 page: 19
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: namo gaura-kiśorāya bhaktāvadhūta-mūrtaye
 ---
 

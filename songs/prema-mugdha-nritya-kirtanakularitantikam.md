@@ -2,7 +2,7 @@
 page: 103
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Wednesday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 41-50. Wednesday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

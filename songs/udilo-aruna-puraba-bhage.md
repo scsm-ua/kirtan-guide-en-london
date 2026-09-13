@@ -2,6 +2,7 @@
 page: 53
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: udila aruṇa pūrava-bhāge
+verse parentheses: non bold
 ---
 
 # Aruṇodaya-kīrtan
@@ -12,20 +13,18 @@ first_line: udila aruṇa pūrava-bhāge
 
 #### 1
 
-    udila aruṇa pūrava-bhāge
-    dvija-maṇi gorā amani jāge
-    bhakata-samūha la-iyā sāthe
-    
+        udila aruṇa pūrava-bhāge
+        dvija-maṇi gorā amani jāge
+        bhakata-samūha la-iyā sāthe
     (gorā) gelā nagara-vrāje
 
 Just before sunrise, as the eastern sky turned crimson, the jewel of the twice-born, Śrī Gaurahari, awoke. Taking His devotees with Him, He began the kīrtan, wandering through the countryside towns and villages.
 
 #### 2
 
-    ‘tāthai’ ‘tāthai’ bājala khola
-    ghana ghana tāhe jhā̐jera rola
-    preme ḍhala ḍhala sonāra aṅga
-    
+        ‘tāthai’ ‘tāthai’ bājala khola
+        ghana ghana tāhe jhā̐jera rola
+        preme ḍhala ḍhala sonāra aṅga
     (gorār) charaṇe nūpura bāje
 
 The mṛdaṅgas went “tāthai tāthai” to the rhyming chiming of the cymbals, as Mahāprabhu’s golden form shivered in ecstasy and His footbells jingled.

@@ -2,7 +2,7 @@
 page: 99
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
-alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram Tuesday
+alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram - 31-40. Tuesday
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

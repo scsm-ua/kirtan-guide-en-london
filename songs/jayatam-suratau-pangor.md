@@ -1,11 +1,12 @@
 ---
 page: 23
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 first_line: jayatāṁ suratau paṅgor mama manda-mater gatī
 ---
 
 # Śrī Śrī Guru Gaurāṅga Rādhā Madana-Mohanjīu
 
-### Kolkata, Śrī Chaitanya Sāraswata Kṛṣṇānuśīlana Sangha
+## Kolkata, Śrī Chaitanya Sāraswata Kṛṣṇānuśīlana Sangha
 
     jayatāṁ suratau paṅgor mama manda-mater gatī
     mat-sarvasva-padāmbhojau rādhā-madana-mohanau

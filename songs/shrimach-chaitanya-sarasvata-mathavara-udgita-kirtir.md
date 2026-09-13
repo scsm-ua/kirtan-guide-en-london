@@ -1,5 +1,6 @@
 ---
 page: 28
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: śrīmach-chaitanya-sārasvata
 ---
 

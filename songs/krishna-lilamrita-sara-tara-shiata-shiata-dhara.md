@@ -5,7 +5,7 @@ first_line: kṛṣṇa-līlāmṛta-sāra, tāra śata śata dhāra
 
 # The Real Essence of Nectar
 
-### Śrila Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
     kṛṣṇa-līlāmṛta-sāra,    tāra śata śata dhāra,
         daśa-dike vahe yāhā haite

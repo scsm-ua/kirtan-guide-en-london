@@ -1,9 +1,9 @@
 ---
 page: 195
-author: Śrī Chaitanya Mahāprabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: śrī-kṛṣṇa-kīrtane yadi mānasa tohāra
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam Verse Three
+  - Śrī Śikṣāṣṭakam - Verse 3
   - tṛṇād api sunīchena taror iva sahiṣṇunā
 ---
 

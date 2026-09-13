@@ -1,6 +1,6 @@
 ---
 page: 247
-author: Śrīla Kṛṣṇadāsa Kavirāja Goswāmī
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 first_line: chaudda-śata sāta-śake māsa ye phālguna
 ---
 

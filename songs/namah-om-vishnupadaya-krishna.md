@@ -1,5 +1,6 @@
 ---
 page: 27
+author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 first_line: namaḥ om viṣṇupādaya kṛṣṇa-preṣṭhāya bhūtale
 ---
 

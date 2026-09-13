@@ -1,5 +1,6 @@
 ---
 page: 224
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: bhayabhañjana jayaśaṁsana-karuṇāyata-nayanam
 ---
 

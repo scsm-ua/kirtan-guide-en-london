@@ -5,7 +5,7 @@ first_line: tat te ’nukampāṁ susamīkṣamāṇo
 
 # The Highest Type of Regulation
 
-### Śrila Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 Even obstacles may improve our position if we can take them in the right way. From a higher angle of vision, it may be seen that everything is coming to help us.
 

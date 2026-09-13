@@ -1,5 +1,6 @@
 ---
 page: 199
+author: Śrīla Rūpa Goswāmī Prabhu
 first_line: tuṇḍe tāṇḍavinī ratiṁ
 ---
 

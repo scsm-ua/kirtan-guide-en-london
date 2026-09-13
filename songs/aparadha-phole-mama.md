@@ -1,9 +1,9 @@
 ---
 page: 200
-author: Śrī Chaitanya Mahāprabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: aparādha-phale mama chitta bhela vajra-sama
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam Verse Six
+  - Śrī Śikṣāṣṭakam - Verse 6
   - nayanaṁ galad-aśru-dhārayā
 ---
 

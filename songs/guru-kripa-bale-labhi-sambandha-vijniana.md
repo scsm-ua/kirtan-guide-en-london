@@ -1,15 +1,17 @@
 ---
 page: 208
-author: Śrīla Rūpa Goswāmī Prabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: guru-kṛpā-bale labhi’ sambandha-vijñāna
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta Sweet Upward Guidance to Eternity - Verse One
+  - Śrī Śrī Upadeśāmṛta - Verse 1
   - vācho vegaṁ manasaḥ krodha-vegaṁ
 ---
 
 # Śrī Śrī Upadeśāmṛta
 
-## Sweet Upward Guidance to Eternity - Verse One
+## Sweet Upward Guidance to Eternity
+
+## Verse One
 
 ### Eleven Sanskrit verses by Śrīla Rūpa Goswāmī Prabhu
 

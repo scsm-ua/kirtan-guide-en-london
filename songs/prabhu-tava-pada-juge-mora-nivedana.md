@@ -1,9 +1,9 @@
 ---
 page: 196
-author: Śrī Chaitanya Mahāprabhu
+author: Śrīla Bhakti Vinod Ṭhākur
 first_line: prabhu tava pada-yuge mora nivedana
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam Verse Four
+  - Śrī Śikṣāṣṭakam - Verse 4
   - na dhanaṁ na janaṁ na sundarīṁ
 ---
 
