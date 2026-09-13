@@ -1,58 +1,21 @@
-## Logic
-
-site:
-    allow multiple index lines for single song id
-        Śikṣāṣṭakam, Upadeśāmṛta, Prema-dhāma-deva Stotram...
-
-## Index and contents
-
-Sort titles with numbers ( One -> 1 )
-    (Śikṣāṣṭakam, Upadeśāmṛta, Prema-dhāma-deva Stotram)
-
-Order inserts in contents:
-    - [You Will Receive Everything](songs/bhagavad-bhaktitah-sarvam.md)
-    - [The Nectarean Holy Name](songs/tunde-tandavini-ratim.md)
-    - [Honouring Rāga-mārg From Afar](songs/matala-hari-jana-kirtana-range.md)
-    - [The Real Essence of Nectar](songs/krishna-lilamrita-sara-tara-shiata-shiata-dhara.md)
-    - [The Highest Śloka](songs/shri-shrimad-bhagavat-padambuja.md)
-    - [The Highest Type of Regulation](songs/tat-te-nukampam-susamikshamano.md)
-
-Make contents groups
-
-Review contents 1 2 3 items
-
 ## Meta
 
 check missing meta.author
 
 ## Review songs formatting
 
-subtitle: Verse One - Sweet Upward Guidance to Eternity
-
-paragraphs:
-    The Highest Śloka
-    Prabhu Kahe – Kahilāṅ ei Mahāmantra
-    Aruṇodaya-kīrtan
-    Bhajan-gīti
-    Śrī Gaura Ārati
-    Dayāl Nitāi Chaitanya
-
-all structure:
-    Jaya Dhvani
-
-translation numbers:
-    Śrī-Rūpa-Mañjarī-pada
+**Footnote:** - make render bold?
 
 Double song is splitted
     Keśi Tīrtha Upakaṇṭhe
     review other
 
+verse parentheses: non bold
+
 ## Tasks
 
-Select author for:
-    Śrī Śikṣāṣṭakam
-    by Śrī Chaitanya Mahāprabhu in Sanskrit
-    Corresponding Bengali composition by Śrīla Bhakti Vinod Ṭhākur:
+author: namas-te-narasimhaya - only Vyasadev, not Jayadev (check other songbooks)
+no author: Hare Kṛṣṇa Mahāmantra
 
 review all authors
 
