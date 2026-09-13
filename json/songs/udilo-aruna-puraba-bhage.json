@@ -2,7 +2,8 @@
   "meta": {
     "page": 53,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "udila aruṇa pūrava-bhāge"
+    "first_line": "udila aruṇa pūrava-bhāge",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Aruṇodaya-kīrtan"
@@ -17,10 +18,9 @@
     {
       "number": "1",
       "text": [
-        "udila aruṇa pūrava-bhāge",
-        "dvija-maṇi gorā amani jāge",
-        "bhakata-samūha la-iyā sāthe",
-        "",
+        "    udila aruṇa pūrava-bhāge",
+        "    dvija-maṇi gorā amani jāge",
+        "    bhakata-samūha la-iyā sāthe",
         "(gorā) gelā nagara-vrāje"
       ],
       "translation": [
@@ -30,10 +30,9 @@
     {
       "number": "2",
       "text": [
-        "‘tāthai’ ‘tāthai’ bājala khola",
-        "ghana ghana tāhe jhā̐jera rola",
-        "preme ḍhala ḍhala sonāra aṅga",
-        "",
+        "    ‘tāthai’ ‘tāthai’ bājala khola",
+        "    ghana ghana tāhe jhā̐jera rola",
+        "    preme ḍhala ḍhala sonāra aṅga",
         "(gorār) charaṇe nūpura bāje"
       ],
       "translation": [

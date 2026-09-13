@@ -2,7 +2,8 @@
   "meta": {
     "page": 128,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "‘dayāl nitāi chaitanya’ ba’le nāch re āmār mana"
+    "first_line": "‘dayāl nitāi chaitanya’ ba’le nāch re āmār mana",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Dayāl Nitāi Chaitanya"
@@ -24,12 +25,9 @@
     {
       "number": "2",
       "text": [
-        "(eman dayāl ta’ nāi he mār kheye prema dey)",
-        "",
+        "    (eman dayāl ta’ nāi he mār kheye prema dey)",
         "(tabe) aparādha dūre yābe, pābe prema-dhan",
-        "",
         "    (aparādhera vichāra to nāi he)",
-        "",
         "(takhan) kṛṣṇa-nāme ruchi habe, ghuchibe bandhana"
       ],
       "translation": [
@@ -41,14 +39,10 @@
       "number": "3",
       "text": [
         "    (anurāg to habe he)",
-        "",
-        "(takhan)anāyāse saphal habe jīvera jīvana",
-        "",
+        "(takhan) anāyāse saphal habe jīvera jīvana",
         "    (naile jīvan to michhe he)",
         "    (kṛṣṇa-rati vinā jīvan to michhe he)",
-        "",
         "śeṣe vṛndāvane rādhā-śyāmer pābe daraśana",
-        "",
         "    (gaura-kṛpā hale he)"
       ],
       "translation": [

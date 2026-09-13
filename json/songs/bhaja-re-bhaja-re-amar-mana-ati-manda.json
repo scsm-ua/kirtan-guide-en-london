@@ -2,7 +2,8 @@
   "meta": {
     "page": 60,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "bhaja re bhaja re āmār mana ati manda"
+    "first_line": "bhaja re bhaja re āmār mana ati manda",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Bhajan-gīti"
@@ -17,9 +18,7 @@
         "bhaja re bhaja re āmār mana ati manda",
         "    (bhajan vinā gati nāi re)",
         "    (vraja-vane rādhā-kṛṣṇa bhajan vinā gati nāi re)",
-        "",
         "(bhaja) vraja-vane rādhā-kṛṣṇa-charaṇāravinda",
-        "",
         "    (jñāna-karma parihari’ re)",
         "    (śuddha rāga-patha dhari’ jñāna-karma parihari’ re)"
       ],
@@ -31,10 +30,8 @@
       "number": "2",
       "text": [
         "(bhaja) gaura-gadādharādvaita-guru-nityānanda",
-        "",
         "    (gaura-kṛṣṇe abheda jene re)",
         "    (guru kṛṣṇa-priya jene gaura-kṛṣṇe abheda jene re)",
-        "",
         "(smara) śrīnivāsa, haridāsa, murāri, mukunda",
         "    (gaura-preme smara smara re)",
         "    (śrīnivāsa, haridāse, gaura-preme smara smara re)"
@@ -47,12 +44,9 @@
       "number": "3",
       "text": [
         "(smara) rūpa-sanātana-jīva-raghunātha-dvandva",
-        "",
         "    (yadi bhajan karbe re)",
         "    (rūpa-sanātane smara yadi bhajan karbe re)",
-        "",
         "(smara) rāghava-gopāla-bhaṭṭa-svarūpa-rāmānanda",
-        "",
         "    (kṛṣṇa-prema yadi chāo re)",
         "    (svarūpa-rāmānande smara kṛṣṇa-prema yadi chāo re)"
       ],
@@ -64,12 +58,9 @@
       "number": "4",
       "text": [
         "(smara) goṣṭhī-saha karṇapura sena-śivānanda",
-        "",
         "    (ajasra smara smara re)",
         "    (goṣṭhī-saha sena śivānande ajasra smara smara re)",
-        "",
         "(smara) rūpānuga sādhu-jana bhajana-ānanda",
-        "",
         "    (vraje vās yadi chāo re)",
         "    (rūpānuga sādhu-jane smara vraje vās yadi chāo re)"
       ],

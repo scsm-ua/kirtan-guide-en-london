@@ -1,6 +1,6 @@
 [
   {
-    "name": null,
+    "name": "Vandanā",
     "items": [
       {
         "id": "vande-ham-shri-guroh-shri-yuta-pada-kamalam",
@@ -81,7 +81,12 @@
         "id": "hari-nama-mahamantra-sarva-mantra-sara",
         "filepath": "songs/hari-nama-mahamantra-sarva-mantra-sara.md",
         "title": "Daśa-vidha Nāmāparādha"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Ārati",
+    "items": [
       {
         "id": "nija-pati-bhuja-danda-chchhatra-bhavam",
         "filepath": "songs/nija-pati-bhuja-danda-chchhatra-bhavam.md",
@@ -135,12 +140,12 @@
       {
         "id": "udilo-aruna-puraba-bhage",
         "filepath": "songs/udilo-aruna-puraba-bhage.md",
-        "title": "Aruṇodaya-kīrtan"
+        "title": "Aruṇodaya-kīrtan – Part One"
       },
       {
         "id": "jiv-jago-jiv-jago-gaurachanda-bole",
         "filepath": "songs/jiv-jago-jiv-jago-gaurachanda-bole.md",
-        "title": "Aruṇodaya-kīrtan"
+        "title": "Aruṇodaya-kīrtan – Part Two"
       },
       {
         "id": "samsara-davanala-lidha-loka",
@@ -241,42 +246,52 @@
         "id": "sujanarvuda-radhita-pada-yugam",
         "filepath": "songs/sujanarvuda-radhita-pada-yugam.md",
         "title": "Śrī Śrī Prabhupād-padma Stavaka"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Śrī Śrī Prema-dhāma-deva Stotram",
+    "items": [
       {
         "id": "deva-siddha-mukta-yukta-bhakta-vrinda",
         "filepath": "songs/deva-siddha-mukta-yukta-bhakta-vrinda.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "1-10. Saturday"
       },
       {
         "id": "sutra-vritti-tippanishta-sukshma-vachanadbhutam",
         "filepath": "songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "11-20. Sunday"
       },
       {
         "id": "dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram",
         "filepath": "songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "21-30. Monday"
       },
       {
         "id": "prema-mugdha-rudra-raja-shiaurya-virya-vikramam",
         "filepath": "songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "31-40. Tuesday"
       },
       {
         "id": "prema-mugdha-nritya-kirtanakularitantikam",
         "filepath": "songs/prema-mugdha-nritya-kirtanakularitantikam.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "41-50. Wednesday"
       },
       {
         "id": "shri-sanatananu-rupa-jiva-sampradayakam",
         "filepath": "songs/shri-sanatananu-rupa-jiva-sampradayakam.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
+        "title": "51-60. Thursday"
       },
       {
         "id": "yamunambu-krishna-radhikali-keli-mandalam",
         "filepath": "songs/yamunambu-krishna-radhikali-keli-mandalam.md",
-        "title": "Śrī Śrī Prema-dhāma-deva Stotram"
-      },
+        "title": "61-72. Friday"
+      }
+    ]
+  },
+  {
+    "name": "Kirtans",
+    "items": [
       {
         "id": "gurudeva-kabe-tava-karuna-prakashie",
         "filepath": "songs/gurudeva-kabe-tava-karuna-prakashie.md",
@@ -561,137 +576,152 @@
         "id": "nama-chintamanih-krishna-chaitanya-rasa-vigrahah",
         "filepath": "songs/nama-chintamanih-krishna-chaitanya-rasa-vigrahah.md",
         "title": "Glories of the Holy Name"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Śrī Śikṣāṣṭakam",
+    "items": [
       {
         "id": "pita-varana-kali-pavana-gora",
         "filepath": "songs/pita-varana-kali-pavana-gora.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "1. Pita-varaṇa kali"
       },
       {
         "id": "tuhu-daya-sagara-tarayite-prani",
         "filepath": "songs/tuhu-daya-sagara-tarayite-prani.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "2. Tuhu̐ dayā-sāgara"
       },
       {
         "id": "shri-krishna-kirtane-jodi-manasa-tohara",
         "filepath": "songs/shri-krishna-kirtane-jodi-manasa-tohara.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "3. Śrī-Kṛṣṇa-kīrtane jodi"
       },
       {
         "id": "prabhu-tava-pada-juge-mora-nivedana",
         "filepath": "songs/prabhu-tava-pada-juge-mora-nivedana.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "4. Prabhu tava pada"
       },
       {
         "id": "anadi-karama-phole",
         "filepath": "songs/anadi-karama-phole.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "5. Anādi karama phole"
       },
       {
         "id": "tunde-tandavini-ratim",
         "filepath": "songs/tunde-tandavini-ratim.md",
-        "title": "The Nectarean Holy Name"
+        "title": "– The Nectarean Holy Name"
       },
       {
         "id": "aparadha-phole-mama",
         "filepath": "songs/aparadha-phole-mama.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "6. Aparādha-phole mama"
       },
       {
         "id": "matala-hari-jana-kirtana-range",
         "filepath": "songs/matala-hari-jana-kirtana-range.md",
-        "title": "Honouring Rāga-mārg From Afar"
+        "title": "– Honouring Rāga-mārg From Afar"
       },
       {
         "id": "gaite-gaite-nama-ki-doshia-hoilo",
         "filepath": "songs/gaite-gaite-nama-ki-doshia-hoilo.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "7a. Gāite gāite nāma"
       },
       {
         "id": "gaite-govinda-nam-upajilo-bhava-gram",
         "filepath": "songs/gaite-govinda-nam-upajilo-bhava-gram.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "7b. Gāite ‘govinda’–nām"
       },
       {
         "id": "sakhi-go-kemote-dhoribo-paran",
         "filepath": "songs/sakhi-go-kemote-dhoribo-paran.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "7c. Sakhī go kemote"
       },
       {
         "id": "bondhu-gon-shiunoho-vachana-mora",
         "filepath": "songs/bondhu-gon-shiunoho-vachana-mora.md",
-        "title": "Śrī Śikṣāṣṭakam"
+        "title": "8a. Bondhu-goṇ! śunoho"
       },
       {
         "id": "yoga-pithopari-sthita-ashta-sakhi-subeshtita",
         "filepath": "songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md",
-        "title": "Śrī Śikṣāṣṭakam"
-      },
+        "title": "8b. Yoga-pīṭhopari-sthita"
+      }
+    ]
+  },
+  {
+    "name": "Śrī Śrī Upadeśāmṛta",
+    "items": [
       {
         "id": "guru-kripa-bale-labhi-sambandha-vijniana",
         "filepath": "songs/guru-kripa-bale-labhi-sambandha-vijniana.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "1. Vācho vegaṁ manasaḥ krodha-vegaṁ"
       },
       {
         "id": "krishna-lilamrita-sara-tara-shiata-shiata-dhara",
         "filepath": "songs/krishna-lilamrita-sara-tara-shiata-shiata-dhara.md",
-        "title": "The Real Essence of Nectar"
+        "title": "– The Real Essence of Nectar"
       },
       {
         "id": "atyahara-prayasa-prajalpa-jana-sanga",
         "filepath": "songs/atyahara-prayasa-prajalpa-jana-sanga.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "2. Atyāhāraḥ prayāsaś cha prajalpo niyamāgrahaḥ"
       },
       {
         "id": "shri-shrimad-bhagavat-padambuja",
         "filepath": "songs/shri-shrimad-bhagavat-padambuja.md",
-        "title": "The Highest Śloka"
+        "title": "– The Highest Śloka"
       },
       {
         "id": "anukulya-sankalpera-chhaya-anga-sara",
         "filepath": "songs/anukulya-sankalpera-chhaya-anga-sara.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "3. Utsāhān niśchayād dhairyāt tat-tat-karma-pravartanāt"
       },
       {
         "id": "asat-sanga-tyaji-sadhu-sanga-kara-bhai",
         "filepath": "songs/asat-sanga-tyaji-sadhu-sanga-kara-bhai.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "4. Dadāti pratigṛhṇāti guhyam ākhyāti pṛchchhati"
       },
       {
         "id": "asat-lakshana-hina-gaya-krishna-nama",
         "filepath": "songs/asat-lakshana-hina-gaya-krishna-nama.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "5. Kṛṣṇeti yasya giri taṁ manasādriyeta"
       },
       {
         "id": "nira-dharma-gata-phena-pankadi-samyukta",
         "filepath": "songs/nira-dharma-gata-phena-pankadi-samyukta.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "6. Dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair"
       },
       {
         "id": "avidya-pittera-doshe-dushta-rasanaya",
         "filepath": "songs/avidya-pittera-doshe-dushta-rasanaya.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "7. Syāt kṛṣṇa-nāma-charitādi-sitāpy avidyā"
       },
       {
         "id": "namadira-smriti-ara-kirtana-niyame",
         "filepath": "songs/namadira-smriti-ara-kirtana-niyame.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "8. Tan-nāma-rūpa-charitādi-sukīrtanānu"
       },
       {
         "id": "vaikuntha-apeksha-shreshtha-mathura-mandala",
         "filepath": "songs/vaikuntha-apeksha-shreshtha-mathura-mandala.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "9. Vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād"
       },
       {
         "id": "chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha",
         "filepath": "songs/chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
+        "title": "10. Karmibhyaḥ parito hareḥ priyatayā vyaktiṁ yayur jñāninas"
       },
       {
         "id": "sakala-preyasi-shreshtha-vrishabhanu-suta",
         "filepath": "songs/sakala-preyasi-shreshtha-vrishabhanu-suta.md",
-        "title": "Śrī Śrī Upadeśāmṛta"
-      },
+        "title": "11. Kṛṣṇasyochchaiḥ praṇaya-vasatiḥ preyāsibhyo ’pi rādhā"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "items": [
       {
         "id": "krishna-hoite-chatur-mukha",
         "filepath": "songs/krishna-hoite-chatur-mukha.md",
@@ -745,17 +775,17 @@
       {
         "id": "gopinath-mama-nivedana-shiuno",
         "filepath": "songs/gopinath-mama-nivedana-shiuno.md",
-        "title": "Nivedana"
+        "title": "Nivedana – Part One"
       },
       {
         "id": "gopinath-ghuchao-samsara-jvala",
         "filepath": "songs/gopinath-ghuchao-samsara-jvala.md",
-        "title": "Nivedana"
+        "title": "Nivedana – Part Two"
       },
       {
         "id": "gopinath-amara-upaya-nai",
         "filepath": "songs/gopinath-amara-upaya-nai.md",
-        "title": "Nivedana"
+        "title": "Nivedana – Part Three"
       },
       {
         "id": "hari-he-dayala-mora-jaya-radha-natha",
@@ -840,17 +870,17 @@
       {
         "id": "radhika-charana-padma-sakala-shreyera",
         "filepath": "songs/radhika-charana-padma-sakala-shreyera.md",
-        "title": "Śrī Rādhāṣṭaka"
+        "title": "Śrī Rādhāṣṭaka – Kīrtan One"
       },
       {
         "id": "virajara-pare-shiuddha-paravyoma-dhama",
         "filepath": "songs/virajara-pare-shiuddha-paravyoma-dhama.md",
-        "title": "Śrī Rādhāṣṭaka"
+        "title": "Śrī Rādhāṣṭaka – Kīrtan Two"
       },
       {
         "id": "radha-bhajane-jodi-moti-nahi-bhela",
         "filepath": "songs/radha-bhajane-jodi-moti-nahi-bhela.md",
-        "title": "Śrī Rādhāṣṭaka"
+        "title": "Śrī Rādhāṣṭaka – Kīrtan Eight"
       },
       {
         "id": "radhakundatata-kunjakutira",
@@ -875,12 +905,12 @@
       {
         "id": "yabe-rupa-sanatana-vraje-gela-dui-jana",
         "filepath": "songs/yabe-rupa-sanatana-vraje-gela-dui-jana.md",
-        "title": "Śrīla Raghunāth Dās Goswāmī Śochaka"
+        "title": "Śrīla Raghunāth Dās Goswāmī Śochaka – Kīrtan One"
       },
       {
         "id": "shri-chaitanya-kripa-haite-raghunatha-dasa-chitte",
         "filepath": "songs/shri-chaitanya-kripa-haite-raghunatha-dasa-chitte.md",
-        "title": "Śrīla Raghunāth Dās Goswāmī Śochaka"
+        "title": "Śrīla Raghunāth Dās Goswāmī Śochaka – Kīrtan Two"
       },
       {
         "id": "ha-ha-bhaktivinoda-thakkura-guroh",
