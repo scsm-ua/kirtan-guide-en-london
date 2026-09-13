@@ -1,0 +1,40 @@
+---
+page: 21
+first_line: gauḍa-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham
+---
+
+# Śrīla Jagannāth Dās Bābājī
+
+### (Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)
+
+    gauḍa-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham
+    jagannātha-prabhuṁ vande premābdhiṁ vṛddha-vaiṣṇavam
+
+The great venerable Grandsire of pure devotion,\
+loved by all Vaiṣṇavas of both Nabadwīp and Vṛndāvan – \
+I worship the feet of that great Vaiṣṇava Guru,\
+the ocean of love, Śrīla Jagannātha Prabhu.
+
+    vāñchhā-kalpa-tarubhyaś cha kṛpā-sindhubhya eva cha
+    patitānāṁ pāvanebhyo vaiṣṇavebhyo namo namaḥ
+
+I bow down unto the holy feet of the pure Vaiṣṇavas, who are like desire trees able to fulfil all the devotees’ aspirations. The Lord’s devotees are comparable to a vast ocean of causeless mercy, as they deliver the fallen souls from material existence. I offer all respects unto them.
+
+    pañcha-tattvātmakaṁ kṛṣṇaṁ bhakta-rūpa-svarūpakam
+    bhaktāvatāraṁ bhaktākhyaṁ namāmi bhakta-śaktikam
+
+*(Śrī Chaitanya-charitāmṛta: Ādi-līlā, 1.14)*
+
+I offer my obeisances unto Lord Kṛṣṇa in His fivefold aspect known as the pañcha-tattva: I offer my respects unto Śrī Gaurāṅgadev, who appears as a devotee of the Lord relishing His own internal mellows. Furthermore I bow down before Lord Nityānanda Prabhu, who is the self-same form and elder brother of Śrī Gaurāṅga. Next, I pay homage unto that great personality Śrī Advaita Prabhu, who is an incarnation of the Lord’s devotee, and unto the Lord’s eternal associates like Śrīvās Paṇḍit, who serve the Lord in loving devotional relationships. Finally, I bow down at the feet of those devotees who hold the actual potency of unalloyed dedication in their hands: Śrī Rāmānanda Rāya, Śrī Gadādhar Paṇḍit, and Śrī Svarūp Dāmodar.
+
+*(Śrīla Kṛṣṇadās Kavirāj Goswāmī)*
+
+    namo mahāvadānyāya kṛṣṇa-prema-pradāya te
+    kṛṣṇāya kṛṣṇa-chaitanya-nāmne gaura-tviṣe namaḥ
+
+*(Śrī Chaitanya-charitāmṛta: Madhya-līlā, 19.53)*
+
+I offer my obeisances unto Lord Gaurāṅga, whose divine complexion is a radiant golden hue and who possesses the qualities of the most benevolent incarnation. His spiritual Pastimes freely grant pure love for Lord Kṛṣṇa to all. He is none other than Lord Kṛṣṇa known in the age of Kali as Śrī Kṛṣṇa Chaitanya.
+
+*(Śrīla Rūpa Goswāmī)*
+

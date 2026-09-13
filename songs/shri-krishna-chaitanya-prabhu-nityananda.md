@@ -1,0 +1,12 @@
+---
+page: 33
+first_line: śrī-kṛṣṇa-chaitanya prabhu nityānanda
+---
+
+# Pañcha Tattva Mantra
+
+    śrī-kṛṣṇa-chaitanya prabhu nityānanda
+    śrī-advaita gadādhara śrīvāsādi gaura-bhakta-vṛnda
+
+The five features of the Absolute Truth: Śrī Kṛṣṇa Chaitanya Mahāprabhu, Śrī Nityānanda Prabhu, Śrī Advaita Āchārya, Śrī Gadādhar Paṇḍit, and Śrī Śrīvās Paṇḍit heading all the devotees of Gaurāṅga (Śrī Kṛṣṇa Chaitanya Mahāprabhu).
+
