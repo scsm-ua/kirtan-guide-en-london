@@ -1,5 +1,6 @@
 ---
 page: 30
+no-author: 1
 first_line: Jaya Saparikar
 verse parentheses: non bold
 ---

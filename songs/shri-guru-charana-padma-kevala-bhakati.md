@@ -2,6 +2,7 @@
 page: 79
 author: Śrīla Narottam Dās Ṭhākur
 first_line: śrī-guru-charaṇa-padma kevala-bhakati-sadma
+verse parentheses: non bold
 ---
 
 # Śrī-Guru-Vaiṣṇava Māhātmya Gīti

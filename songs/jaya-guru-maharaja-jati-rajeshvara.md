@@ -16,9 +16,9 @@ first_line: jaya ‘guru-mahārāja’ yati-rājeśvara
     śrī-bhakti-rakṣaka deva-gosvāmī śrīdhara
 
 All glories to you, ‘Guru Mahārāj,’\
-    of sannyāsī kings, the Emperor:\
+&nbsp;&nbsp;&nbsp;&nbsp;of sannyāsī kings, the Emperor:\
 the glorious Śrīla Bhakti Rakṣak\
-    Dev-Goswāmī Śrīdhar.
+&nbsp;&nbsp;&nbsp;&nbsp;Dev-Goswāmī Śrīdhar.
 
 #### 2
 
@@ -26,9 +26,9 @@ the glorious Śrīla Bhakti Rakṣak\
     nistārilā dīna-hīna āpāmara jane
 
 Extending in this world your\
-    Pastimes as saviour of the fallen,\
+&nbsp;&nbsp;&nbsp;&nbsp;Pastimes as saviour of the fallen,\
 you delivered all the suffering souls,\
-    including the most forsaken.
+&nbsp;&nbsp;&nbsp;&nbsp;including the most forsaken.
 
 #### 3
 
@@ -36,9 +36,9 @@ you delivered all the suffering souls,\
     preme bhāgyavāna jīva paḍe murachiyā
 
 Beholding your holy form\
-    of concentrated mercy\
+&nbsp;&nbsp;&nbsp;&nbsp;of concentrated mercy\
 the fortunate souls fall in a swoon\
-    of divine love’s ecstasy.
+&nbsp;&nbsp;&nbsp;&nbsp;of divine love’s ecstasy.
 
 #### 4
 
@@ -46,9 +46,9 @@ the fortunate souls fall in a swoon\
     divya-jñāna-dīpta-netra divya-jyotirmaya
 
 Your lofty form full of divine emotion\
-    is nectar for our eyes;\
+&nbsp;&nbsp;&nbsp;&nbsp;is nectar for our eyes;\
 with divine knowledge and shining eyes,\
-    your effulgence fills the skies.
+&nbsp;&nbsp;&nbsp;&nbsp;your effulgence fills the skies.
 
 #### 5
 
@@ -56,9 +56,9 @@ with divine knowledge and shining eyes,\
     tilaka, tulasī-mālā, chandana-bhūṣaṇa
 
 A golden Sun resplendent,\
-    in robes of saffron dressed;\
+&nbsp;&nbsp;&nbsp;&nbsp;in robes of saffron dressed;\
 adorned with tilak, Tulasī beads,\
-    and with sandal fragrance blessed.
+&nbsp;&nbsp;&nbsp;&nbsp;and with sandal fragrance blessed.
 
 #### 6
 
@@ -66,9 +66,9 @@ adorned with tilak, Tulasī beads,\
     audārya-unnata-bhāva mādhurya-ujjvala
 
 The matchless beauty of your holy form,\
-    dazzling in its brightness;\
+&nbsp;&nbsp;&nbsp;&nbsp;dazzling in its brightness;\
 your benevolence of most noble heart,\
-    in the moonglow of love’s sweetness.
+&nbsp;&nbsp;&nbsp;&nbsp;in the moonglow of love’s sweetness.
 
 #### 7
 
@@ -76,9 +76,9 @@ your benevolence of most noble heart,\
     jaḍa-jñāna-giri-vajra divya-dīkṣādhāra
 
 Inconceivable genius, affection,\
-    gravity, magnanimity – \
+&nbsp;&nbsp;&nbsp;&nbsp;gravity, magnanimity – \
 a thunderbolt crushing mundane knowledge,\
-    the reservoir bestowing divinity.
+&nbsp;&nbsp;&nbsp;&nbsp;the reservoir bestowing divinity.
 
 #### 8
 
@@ -86,9 +86,9 @@ a thunderbolt crushing mundane knowledge,\
     “dayāla nitāi” nāme nitya premamaya
 
 In the Golden Lord’s saṅkīrtan dance,\
-    you revel ecstatically;\
+&nbsp;&nbsp;&nbsp;&nbsp;you revel ecstatically;\
 “Dayāl Nitāi, Dayāl Nitāi!”\
-    you ever call so lovingly.
+&nbsp;&nbsp;&nbsp;&nbsp;you ever call so lovingly.
 
 #### 9
 
@@ -96,9 +96,9 @@ In the Golden Lord’s saṅkīrtan dance,\
     gupta-govardhane divya-līlāra-vilāsa
 
 Eternally present in Nabadwīp Dhām\
-    with your associates, by your sweet will,\
+&nbsp;&nbsp;&nbsp;&nbsp;with your associates, by your sweet will,\
 you enjoy your holy Pastimes\
-    on hidden Govardhan Hill.
+&nbsp;&nbsp;&nbsp;&nbsp;on hidden Govardhan Hill.
 
 #### 10
 
@@ -106,9 +106,9 @@ you enjoy your holy Pastimes\
     gauḍīya-siddhānta-maṇi kaṇṭha-vibhūṣaṇa
 
 You’re the fit recipient of your dignity\
-    in the Gauḍīya Āchārya assembly,\
+&nbsp;&nbsp;&nbsp;&nbsp;in the Gauḍīya Āchārya assembly,\
 the jewel of the Gauḍīya-siddhānta\
-    adorning your chest so nobly.
+&nbsp;&nbsp;&nbsp;&nbsp;adorning your chest so nobly.
 
 #### 11
 
@@ -116,9 +116,9 @@ the jewel of the Gauḍīya-siddhānta\
     āviṣkṛta gāyatrīra artha-chintāmaṇi
 
 You’re the living message of Śrī Gaura,\
-    you’re the mine of perfect conclusions;\
+&nbsp;&nbsp;&nbsp;&nbsp;you’re the mine of perfect conclusions;\
 you revealed the Gāyatrī’s inner purport:\
-    the gem fulfilling all aspirations.
+&nbsp;&nbsp;&nbsp;&nbsp;the gem fulfilling all aspirations.
 
 #### 12
 
@@ -126,9 +126,9 @@ you revealed the Gāyatrī’s inner purport:\
     susaṅgati, sāmañjasya, e-saba prabhāva
 
 When you speak, one subject alone\
-    is revealed in ever-new light;\
+&nbsp;&nbsp;&nbsp;&nbsp;is revealed in ever-new light;\
 proper adjustment, and harmony – \
-    all these are your spiritual might.
+&nbsp;&nbsp;&nbsp;&nbsp;all these are your spiritual might.
 
 #### 13
 
@@ -136,9 +136,9 @@ proper adjustment, and harmony – \
     rūpa-sarasvatī-dhārā dekhena tomāte
 
 All your dear Godbrothers\
-    declare unanimously\
+&nbsp;&nbsp;&nbsp;&nbsp;declare unanimously\
 they see within your Holiness\
-    the line of Rūpa-Saraswatī.
+&nbsp;&nbsp;&nbsp;&nbsp;the line of Rūpa-Saraswatī.
 
 #### 14
 
@@ -146,9 +146,9 @@ they see within your Holiness\
     dekhi’ sakalera haya ‘prabhu’ uddīpana
 
 Seeing you take the Holy Name,\
-    with Tulasī beads in hand,\
+&nbsp;&nbsp;&nbsp;&nbsp;with Tulasī beads in hand,\
 awakens the thought of Saraswatī Ṭhākur\
-    in everybody’s mind.
+&nbsp;&nbsp;&nbsp;&nbsp;in everybody’s mind.
 
 #### 15
 
@@ -156,9 +156,9 @@ awakens the thought of Saraswatī Ṭhākur\
     gāndharvā-govinda-līlāmṛta-lābha-āśā
 
 Your feet, cooling like ten million moons – \
-    in their service all faith do I place;\
+&nbsp;&nbsp;&nbsp;&nbsp;in their service all faith do I place;\
 the nectar of Rādhā-Govinda’s Pastimes\
-    one day we may drink, by your grace.
+&nbsp;&nbsp;&nbsp;&nbsp;one day we may drink, by your grace.
 
 #### 16
 
@@ -166,7 +166,7 @@ the nectar of Rādhā-Govinda’s Pastimes\
     sānande ārati stuti kare dīna-dāsa
 
 O personification of perfect conclusions\
-    inconceivably one, yet different!\
+&nbsp;&nbsp;&nbsp;&nbsp;inconceivably one, yet different!\
 I sing this prayer at your ārati,\
-    with joy – your humble servant.
+&nbsp;&nbsp;&nbsp;&nbsp;with joy – your humble servant.
 

@@ -1,5 +1,6 @@
 ---
 page: 69
+no-author: 1
 first_line: mahāprasāde govinde nāma-brahmaṇi vaiṣṇave
 ---
 

@@ -6,12 +6,12 @@ first_line: devaṁ divya-tanuṁ suchanda-vadanaṁ bālārka-chelāñchitaṁ
 
 # Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
-### (Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj)
-
     devaṁ divya-tanuṁ suchanda-vadanaṁ bālārka-chelāñchitaṁ
     sāndrānanda-puraṁ sad-eka-varaṇaṁ vairāgya-vidyāmbudhim
     śrī-siddhānta-nidhiṁ subhakti-lasitaṁ sārasvatānām varaṁ
     vande taṁ śubhadaṁ mad-eka-śaraṇaṁ nyāsīśvaraṁ śrīdharam
+
+*(Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj)*
 
 I fall at the feet of Śrīla Śrīdhar-Deva,\
 who with charming expression sings his songs of sweet nectar.\

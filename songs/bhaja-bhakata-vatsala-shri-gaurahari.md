@@ -2,6 +2,7 @@
 page: 66
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: bhaja bhakata-vatsala śrī-gaurahari
+verse parentheses: non bold
 ---
 
 # Śrī Bhoga Ārati Gīti
@@ -19,7 +20,6 @@ Just worship Śrī Gaurahari, who is always affectionate toward His devotees. He
 #### 2
 
     “belā halo, dāmodara, āisa ekhana
-    
     bhoga-mandire vasi’ karaha bhojana”
 
 Mother Yaśodā calls to Kṛṣṇa, “My dear Dāmodar, it is very late. Please come right now, sit down in the dining hall, and take your lunch.”

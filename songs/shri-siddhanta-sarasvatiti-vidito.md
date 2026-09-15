@@ -6,12 +6,12 @@ first_line: śrī-siddhānta-sarasvatīti-vidito gauḍīya-gurv-anvaye
 
 # Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 
-### (Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)
-
     śrī-siddhānta-sarasvatīti-vidito gauḍīya-gurv-anvaye
     bhāto bhānur iva prabhāta-gagane yo gaura-saṅkīrtanaiḥ
     māyāvāda-timiṅgilodara-gatān uddhṛtya jīvanimān
     kṛṣṇa-prema-sudhābdhi-gāhana-sukhaṁ prādāt prabhuṁ taṁ bhaje
+
+*(Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)*
 
 In the great Gauḍīya Vaiṣṇava teachers’ line,\
 as Śrīla Bhakti Siddhānta Saraswatī he’s renowned.\

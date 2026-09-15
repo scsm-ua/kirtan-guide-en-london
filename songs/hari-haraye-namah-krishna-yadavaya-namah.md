@@ -2,6 +2,7 @@
 page: 65
 author: Śrīla Narottam Dās Ṭhākur
 first_line: hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+verse parentheses: non bold
 ---
 
 # Nāma-saṅkīrtan
@@ -74,7 +75,6 @@ Absorbing your mind in meditation upon the divine feet of the Spiritual Master a
 #### 10
 
     śrī-guru-vaiṣṇava-pāda-padma kari āśa
-    
     (hari) nāma-saṅkīrtana kahe narottama dāsa
 
 Desiring the lotus feet of Śrī Guru and the Vaiṣṇavas, Narottam Dās sings the saṅkīrtan of the Holy Name.

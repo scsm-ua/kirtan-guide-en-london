@@ -2,6 +2,7 @@
 page: 62
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: vibhāvarī śeṣa āloka praveśa
+verse parentheses: non bold
 ---
 
 # Vibhāvarī Śeṣa
@@ -73,12 +74,10 @@ He increases the ecstasy of His devotees. He is the reservoir of all love and is
 
 #### 8
 
-    yāmuna-jīvana    keli-parāyaṇa
-        mānasa-chandra-chakora
-    
+                yāmuna-jīvana    keli-parāyaṇa
+                    mānasa-chandra-chakora
     (hari) nāma-sudhā-rasa    gāo kṛṣṇa-yaśa
-    
-        rākha vachana mana mora
+                    rākha vachana mana mora
 
 Lord Kṛṣṇa is the life of the River Yamunā. He is always absorbed in amorous Pastimes and He is the moon of the gopīs’ minds, which are like the chakora birds that subsist only upon moonlight. O mind, obey these words of mine and sing the glories of Śrī Kṛṣṇa in the form of these Holy Names, which are full of nectarean mellows.
 

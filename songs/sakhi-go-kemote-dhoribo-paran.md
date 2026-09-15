@@ -36,5 +36,5 @@ Tears flow from my eyes like torrents of rain in the month of Śrāvaṇa, and t
 
 Bhakti Vinod has become very restless and again takes shelter of the Holy Name, calling out, “O Lord of Rādhā! By bestowing Your audience, please save my life! By Your mercy alone I shall not perish!”
 
-\***Footnote:** Śrīla Guru Mahārāj, Śrīla Śrīdhar Mahārāj, advised not to sing ‘sakhi go’ but ‘bandhu he’ instead.
+\****Footnote:*** Śrīla Guru Mahārāj, Śrīla Śrīdhar Mahārāj, advised not to sing ‘sakhi go’ but ‘bandhu he’ instead.
 

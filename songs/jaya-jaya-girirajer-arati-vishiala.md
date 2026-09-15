@@ -6,7 +6,9 @@ first_line: jaya jaya girirājer ārati viśāla
 
 # Śrī Govinda Kuṇḍa Gupta-Govardhan Ārati
 
-### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj for the āratis in our Nabadwīp Girirāj-Govardhan Temple in Govinda Kuṇḍa
+### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+
+### for the āratis in our Nabadwīp Girirāj-Govardhan Temple in Govinda Kuṇḍa
 
 #### 1
 

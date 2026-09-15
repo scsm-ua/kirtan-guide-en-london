@@ -24,7 +24,6 @@ O brother! One day in Śāntipur at the house of Advaita Prabhu, the two Lords s
 #### 2
 
     “hena śāka āsvādane    kṛṣṇa-prema āise mane
-    
         sei preme kara āsvādana
     jaḍa-buddhi parihari’    prasāda bhojana kari’
         ‘hari hari’ bala sarva-jana”

@@ -68,7 +68,7 @@ Playfully embracing around the neck your dear friend Rādhā Kuṇḍa, the inco
 
 You always fully nourish the cows everywhere with your land, water, plains, grass, and the shade of your trees, and thus proclaim the fulfilment of your Name throughout the three worlds. Please give me a dwelling near you, O Govardhan!
 
-**Note:** *Govardhana* means “He who nourishes (vardhana) the cows (go).”
+***Note:*** *Govardhana* means “He who nourishes (vardhana) the cows (go).”
 
 #### 7
 

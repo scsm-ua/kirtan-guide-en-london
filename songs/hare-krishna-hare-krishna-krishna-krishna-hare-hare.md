@@ -1,5 +1,6 @@
 ---
 page: 33
+no-author: 1
 first_line: hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
 ---
 

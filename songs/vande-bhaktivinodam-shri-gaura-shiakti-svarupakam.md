@@ -6,10 +6,10 @@ first_line: vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam
 
 # Śrīla Sachchidānanda Bhakti Vinod Ṭhākur
 
-### (Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)
-
     vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam
     bhakti-śāstrajña-samrājaṁ rādhā-rasa-sudhā-nidhim
+
+*(Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)*
 
 I bow to Śrī Ṭhākur Bhakti Vinod,\
 Mahāprabhu’s love divine personified.\

@@ -14,9 +14,9 @@ verse parentheses: non bold
 
     (kibā) jaya jaya gorāchā̐der āratika śobhā
         jāhnavī-taṭa-vane jaga-mana-lobhā
-            (jaga-janer mana lobhā)
-            (gaurāṅger ārati śobhā jaga-janer mana lobhā)
-            (nitāi gaura haribol)
+                (jaga-janer mana lobhā)
+                (gaurāṅger ārati śobhā jaga-janer mana lobhā)
+                (nitāi gaura haribol)
 
 All glories, all glories to the beautiful ārati ceremony of worship to Lord Gaurachandra in a grove on the banks of the Jāhnavī River! It is attracting the minds of all living entities in the universe.
 
@@ -30,13 +30,13 @@ On Lord Gaurachandra’s right side is Lord Nityānanda, and on His left is Śr�
 #### 3
 
     (kibā) basiyāchhe gorāchā̐da ratna-siṁhāsane
-            (ratna-simhāsana alo karere)
-            (basiyāchhen gorāchā̐d ratna-siṁhāsane)
+                (ratna-simhāsana alo karere)
+                (basiyāchhen gorāchā̐d ratna-siṁhāsane)
         ārati karena brahmā ādi-deva gaṇe
-            (gaurāṅger ārati kare)
-            (brahmā ādi-deva gaṇe gaurāṅger ārati kare)
-            (gaurāṅgera bhakta sane gaurāṅger ārati kare)
-            (nitāi gaura haribol)
+                (gaurāṅger ārati kare)
+                (brahmā ādi-deva gaṇe gaurāṅger ārati kare)
+                (gaurāṅgera bhakta sane gaurāṅger ārati kare)
+                (nitāi gaura haribol)
 
 Lord Chaitanya is seated upon a jewelled throne while the demigods headed by Lord Brahmā perform the ārati ceremony.
 
@@ -44,9 +44,9 @@ Lord Chaitanya is seated upon a jewelled throne while the demigods headed by Lor
 
     (kibā) narahari-ādi kari chāmara ḍhulāya
         sañjaya-mukunda-vāsu-ghoṣa-ādi gāya
-            (gaura-guṇa gāna kare)
-            (sañjaya mukunda vāsu-ghoṣa gaura-guṇa gāna kare)
-            (nitāi gaura haribol)
+                (gaura-guṇa gāna kare)
+                (sañjaya mukunda vāsu-ghoṣa gaura-guṇa gāna kare)
+                (nitāi gaura haribol)
 
 Narahari Sarakār and other associates of Lord Chaitanya fan Him with whisks and the devotees headed by Sañjaya Paṇḍit, Mukunda Datta, and Vāsu Ghoṣa sing sweet kīrtan along with the other devotees.
 
@@ -54,11 +54,11 @@ Narahari Sarakār and other associates of Lord Chaitanya fan Him with whisks and
 
     (kibā) śaṅkha bāje ghaṇṭā bāje bāje karatāla
         madhura mṛdaṅga bāje parama rasāla
-            (madhur madhur madhur bāje)
-            (gaurāṅger ārati kāle madhur madhur madhur bāje)
-            (śaṅkha bāje ghaṇṭā bāje madhur madhur madhur bāje)
-            (madhura mṛdanga bāje madhur madhur madhur bāje)
-            (nitāi gaura haribol)
+                (madhur madhur madhur bāje)
+                (gaurāṅger ārati kāle madhur madhur madhur bāje)
+                (śaṅkha bāje ghaṇṭā bāje madhur madhur madhur bāje)
+                (madhura mṛdanga bāje madhur madhur madhur bāje)
+                (nitāi gaura haribol)
 
 Conchshells, bells, and karatālas resound, and the mṛdaṅgas play very sweetly. This kīrtan music is supremely sweet and relishable to hear.
 
@@ -66,10 +66,10 @@ Conchshells, bells, and karatālas resound, and the mṛdaṅgas play very sweet
 
     (kibā) bahu koṭi chandra jini vadana ujjvala
         gala-deśe vana-mālā kare jhalamala
-            (jhalmal jhalmal jhalmal kare)
-            (gaura-gale vana-phuler mālā jhalmal jhalmal jhalmal kare)
-            (bhakta-vṛṇder ratna-mālā jhalmal jhalmal jhalmal kare)
-            (nitāi gaura haribol)
+                (jhalmal jhalmal jhalmal kare)
+                (gaura-gale vana-phuler mālā jhalmal jhalmal jhalmal kare)
+                (bhakta-vṛṇder ratna-mālā jhalmal jhalmal jhalmal kare)
+                (nitāi gaura haribol)
 
 The brilliance of Lord Chaitanya’s face conquers millions upon millions of moons, and the garland of forest flowers around His neck shines.
 

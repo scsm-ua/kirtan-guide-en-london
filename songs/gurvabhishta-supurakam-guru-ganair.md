@@ -6,12 +6,12 @@ first_line: gurv-ābhīṣṭa-supūrakaṁ guru-gaṇair āśīṣa-saṁbhū�
 
 # Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
-### (Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)
-
     gurv-ābhīṣṭa-supūrakaṁ guru-gaṇair āśīṣa-saṁbhūṣitaṁ
     chintyāchintya-samasta-veda-nipuṇaṁ śrī-rūpa-panthānugam
     govindābhidham ujjvalaṁ vara-tanuṁ bhakty-anvitaṁ sundaraṁ
     vande viśva-guruñ cha divya-bhagavat-premṇo hi bīja-pradam
+
+*(Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj)*
 
 His Guru’s most cherished wishes, he’s truly fulfilling,\
 adorned with his guru-varga’s affectionate blessing.\

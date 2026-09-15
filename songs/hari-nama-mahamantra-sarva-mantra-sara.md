@@ -43,8 +43,7 @@ His Pastimes, Nature, Form, also think not separate.
     se gurute martya-buddhi avajñādi tyaji’
     iṣṭa-lābha kara, nirantara nāma bhaji’
 
-“Guru’s a form of Kṛṣṇa – the scriptures corroborate;
-
+“Guru’s a form of Kṛṣṇa – the scriptures corroborate;\
 in the form of Guru, Kṛṣṇa blesses the fortunate.”\
 Never offend that Guru by thinking him mere mortal;\
 gain your highest goal and serve the Name for time eternal.

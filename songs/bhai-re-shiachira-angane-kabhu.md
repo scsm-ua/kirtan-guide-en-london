@@ -22,7 +22,6 @@ O brother! Śrīla Mādhavendra Purīpād once took prasād in Śrī Śachī Dev
 #### 2
 
     “mochā-ghaṇṭa phula-baḍi    ḍāli ḍālnā chachchaḍi
-    
         śachī-mātā karila randhana
     tāra śuddhā-bhakti heri’    bhojana karila hari
         sudhā-sama e anna-vyañjana
@@ -32,7 +31,6 @@ O brother! Śrīla Mādhavendra Purīpād once took prasād in Śrī Śachī Dev
 #### 3
 
     “yoge yogī pāya yāhā    bhoge āja habe tāhā
-    
         hari bali’ khāo sabe bhāi
     kṛṣṇera prasāda-anna    trijagata kare dhanya
         tripurāri nāche yāhā pāi’”

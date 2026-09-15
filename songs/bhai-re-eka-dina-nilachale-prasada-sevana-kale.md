@@ -22,7 +22,6 @@ O brother! One day in Nīlāchal at the time of honouring prasādam, Mahāprabhu
 #### 2
 
     “khecharānna piṭhā-pānā    apūrva prasāda nānā
-    
         jagannātha dila tomā sabe
     ākaṇṭha bhojana kari’    bala mukhe hari hari
         avidyā-durita nāhi rabe
@@ -32,7 +31,6 @@ O brother! One day in Nīlāchal at the time of honouring prasādam, Mahāprabhu
 #### 3
 
     “jagannātha-prasādānna    viriñchi-śambhura mānya
-    
         khāile prema ha-ibe udaya
     emana durlabha dhana    pāiyāchha sarva-jana
         jaya jaya jagannātha jaya”
