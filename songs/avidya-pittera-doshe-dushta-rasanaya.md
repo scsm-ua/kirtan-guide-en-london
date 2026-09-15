@@ -3,7 +3,7 @@ page: 216
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: avidyā pittera doṣe duṣṭa rasanāya
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 7
+  - Śrī Śrī Upadeśāmṛta – Verse 7
   - syāt kṛṣṇa-nāma-charitādi-sitāpy avidyā
 ---
 

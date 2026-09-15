@@ -3,7 +3,7 @@ page: 208
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: guru-kṛpā-bale labhi’ sambandha-vijñāna
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 1
+  - Śrī Śrī Upadeśāmṛta – Verse 1
   - vācho vegaṁ manasaḥ krodha-vegaṁ
 ---
 

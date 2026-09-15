@@ -3,7 +3,7 @@ page: 218
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: vaikuṇṭha apekṣā śreṣṭha māthura-maṇḍala
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 9
+  - Śrī Śrī Upadeśāmṛta – Verse 9
   - vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād
 ---
 

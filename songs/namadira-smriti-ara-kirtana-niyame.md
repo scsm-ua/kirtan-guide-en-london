@@ -3,7 +3,7 @@ page: 217
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: nāmādira smṛti āra kīrtana niyame
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 8
+  - Śrī Śrī Upadeśāmṛta – Verse 8
   - tan-nāma-rūpa-charitādi-sukīrtanānu
 ---
 

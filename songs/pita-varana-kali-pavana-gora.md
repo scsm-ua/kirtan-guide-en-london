@@ -3,7 +3,7 @@ page: 192
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: pīta-varaṇa kali-pāvana gorā
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam - Verse 1
+  - Śrī Śikṣāṣṭakam – Verse 1
   - cheto-darpaṇa-mārjanaṁ
 ---
 

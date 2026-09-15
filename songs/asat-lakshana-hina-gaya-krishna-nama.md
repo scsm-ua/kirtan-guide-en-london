@@ -3,7 +3,7 @@ page: 214
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: asat lakṣaṇa-hīna gāya kṛṣṇa-nāma
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 5
+  - Śrī Śrī Upadeśāmṛta – Verse 5
   - kṛṣṇeti yasya giri taṁ manasādriyeta
 ---
 

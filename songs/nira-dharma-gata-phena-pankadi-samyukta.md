@@ -3,7 +3,7 @@ page: 215
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: nīra-dharma-gata phena-paṅkādi-saṁyukta
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 6
+  - Śrī Śrī Upadeśāmṛta – Verse 6
   - dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair
 ---
 

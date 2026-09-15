@@ -3,7 +3,7 @@ page: 220
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: sakala preyasī-śreṣṭhā vṛṣabhānu-sutā
 alt_first_lines:
-  - Śrī Śrī Upadeśāmṛta - Verse 11
+  - Śrī Śrī Upadeśāmṛta – Verse 11
   - kṛṣṇasyochchaiḥ praṇaya-vasatiḥ preyāsibhyo ’pi rādhā
 ---
 

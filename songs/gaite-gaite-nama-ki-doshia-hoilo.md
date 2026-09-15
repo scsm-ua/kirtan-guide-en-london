@@ -3,7 +3,7 @@ page: 202
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: gāite gāite nāma ki daśā ha-ila
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam - Verse 7
+  - Śrī Śikṣāṣṭakam – Verse 7
   - yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam
 ---
 
