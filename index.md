@@ -250,3 +250,5 @@
 - [yo ’nanto ’nanta-vaktrair niravadhi](songs/yo-nanto-nanta-vaktrair-niravadhi.md)
 - [yoga-pīṭhopari-sthita aṣṭa-sakhī-suveṣṭita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
 - [yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam](songs/gaite-gaite-nama-ki-doshia-hoilo.md)
+- [vāñchhā-kalpa-tarubhyaś cha](songs/vancha-kalpatarubhyas-cha.md)
+- [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)

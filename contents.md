@@ -7,19 +7,21 @@
 - [Śrīla Gaura Kiśor Dās Bābājī](songs/namo-gaurakishoraya-bhaktavadhuta-murtaye.md)
 - [Śrīla Sachchidānanda Bhakti Vinod Ṭhākur](songs/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.md)
 - [Śrīla Jagannāth Dās Bābājī](songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md)
+- [Vāñchhā-kalpa-tarubhyaś cha](songs/vancha-kalpatarubhyas-cha.md)
 - [Śrī Śrī Guru Gaurāṅga Rādhā Madana-Mohanjīu](songs/jayatam-suratau-pangor.md)
 - [Śrī Śrī Guru-Gaurāṅga-Gāndharvā-Govindasundarjīu](songs/divyad-vrindaranya-kalpa-drumadhah.md)
 - [Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu](songs/shriman-rasa-rasarambhi.md)
+- [Vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
 - [Śrīla A.C. Bhaktivedānta Swāmī Prabhupād](songs/namah-om-vishnupadaya-krishna.md)
 - [The Glory of Śrī Chaitanya Sāraswat Maṭh](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Jaya Dhvani](songs/jaya-sa-parikara.md)
 - [Pañcha Tattva Mantra](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
 - [Hare Kṛṣṇa Mahāmantra](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [Daśa-vidha Nāmāparādha](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
+- [Śrī Śrī Govardhana-vāsa-prārthanā-daśakam](songs/nija-pati-bhuja-danda-chchhatra-bhavam.md)
 
 ### Ārati
 
-- [Śrī Śrī Govardhana-vāsa-prārthanā-daśakam](songs/nija-pati-bhuja-danda-chchhatra-bhavam.md)
 - [Śrī Govinda Kuṇḍa Gupta-Govardhan Ārati](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [Śrī Śrī Girirāj-Govardhan Ārati](songs/jaya-jaya-girirajer-arotiko-shobha.md)
 - [Śrī Śrī Nitāi-Chaitanya Ārati](songs/jaya-guru-maharaja-karuna-sagara.md)
