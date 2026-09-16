@@ -25,10 +25,6 @@ verse parentheses: non bold
 
     Jaya Om Viṣṇupād Śrīla Jagannātha Dās Bābājī Mahārāj kī jaya!
 
-    Jaya Śrī Rūpānuga Guru-varga kī jaya!
-
-    Jaya Viśva-vareṇya Śrīla A.C. Bhaktivedānta Swāmī Prabhupād kī jaya!
-
     Jaya Śrīla Baladev Vidyābhūṣaṇ kī jaya!
 
     Jaya Śrīla Viśvanāth Chakravartī Ṭhākur kī jaya!
@@ -43,7 +39,11 @@ verse parentheses: non bold
 
     Jaya Śrīla Svarūp Dāmodar, Śrīla Rāy Rāmānanda kī jaya!
 
+    Jaya Śrī Rūpānuga Guru-varga kī jaya!
+
     Jaya Namāchārya Śrīla Hari Dās Ṭhākur kī jaya!
+
+    Jaya Viśva-vareṇya Śrīla A.C. Bhaktivedānta Swāmī Prabhupād kī jaya!
 
     Jaya Śrī Kṛṣṇa Chaitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhar, Śrīvās-ādi Gaura-bhakta-vṛnda kī jaya!
 
@@ -87,13 +87,13 @@ verse parentheses: non bold
 
     Jaya Samaveta Bhakta-vṛnda kī jaya!
 
-    Jaya Śrī Harināma-saṅkīrtan kī jaya!
-
     Śrī Chaitanya Sāraswat Āchārya-vṛnda kī jaya!
 
-    Śrī Sannyāsa Bhakta-vṛnda kī jaya!
+    Śrī Sannyāsa-vṛnda kī jaya!
 
     (Names of sannyasīs/senior Vaiṣṇavas present in the assembly, kī jaya!)
+
+    Jaya Śrī Harināma-saṅkīrtan kī jaya!
 
     Nitāi Gaura Premānande! Haribol!
 

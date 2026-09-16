@@ -22,7 +22,7 @@ All glories to the beautiful ārati of Śrī Girirāj which is going on in Śrī
     pramoda-madana-līla śrī-rādhā-ramaṇa
     yathā nitya-līlā kare laye sakhī-gaṇa
 
-Lord Śrī Rādhā-Ramaṇa Kṛṣṇa who gives pleasure to his beloved (Śrīmatī Rādhārāṇī) is eternally playing His joyful Loving Pastimes there in the association of the sakhīs of Śrīmatī Rādhārāṇī.
+Lord Śrī Rādhā-Ramaṇa, Kṛṣṇa, who gives pleasure to his beloved (Śrīmatī Rādhārāṇī) is eternally playing His joyful Loving Pastimes there in the association of the sakhīs of Śrīmatī Rādhārāṇī.
 
 #### 3
 

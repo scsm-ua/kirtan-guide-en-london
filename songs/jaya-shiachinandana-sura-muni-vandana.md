@@ -15,7 +15,7 @@ first_line: jaya śachī-nandana sura-muni-vandana
     jaya hari-kīrtana-    nartanāvartana
         kali-mala-kartana jaya he
 
-All glories to Śrī Kṛṣṇa Chaitanya Mahāprabhu, the son of Śachī Devī. Great sages and demigods always sing His praise, for by doing so, the fear of repeated birth and death is cut to pieces. All glories to the kīrtan of the Holy Name of Kṛṣṇa, for when one chants the Holy Name of Kṛṣṇa and dances in ecstasy, the filth of this age of Kali disappears.
+All glories to Śrī Kṛṣṇa Chaitanya Mahāprabhu, the son of Śachī Devī. Great sages and demigods always sing His praise, and by doing so, the fear of repeated birth and death is cut to pieces. All glories to the kīrtan of the Holy Name of Kṛṣṇa, for when one chants the Holy Name of Kṛṣṇa and dances in ecstasy, the filth of this age of Kali disappears.
 
 #### 2
 

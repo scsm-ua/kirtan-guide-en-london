@@ -36,7 +36,7 @@ All glories to Keśī-ghāṭa, where Kṛṣṇa killed the Keśī demon. All g
     śrī-nanda yaśodā jaya jaya gopa-gaṇa
     śrīdāmādi jaya jaya dhenu-vatsa-gaṇa
 
-All glories to Kṛṣṇa’s divine father and mother, Nanda and Yaśodā. All glories to the cowherd boys, headed by Śrīdāmā, the older brother of Śrīmatī Rādhārāṇī and Anaṅga Mañjarī. All glories to the cows and calves of Vraja.
+All glories to Kṛṣṇa’s divine father and mother, Nanda and Yaśodā. All glories to the cowherd boys headed by Śrīdāmā (the older brother of Śrīmatī Rādhārāṇī) and Anaṅga Mañjarī. All glories to the cows and calves of Vraja.
 
 #### 5
 

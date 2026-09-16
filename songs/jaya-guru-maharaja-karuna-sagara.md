@@ -71,7 +71,7 @@ The enchanting beauty of the Two (Śrī Śrī Nitāi-Chaitanya) captivates all t
     śrī svarūpa rāmānanda rūpa-sanātana
     raghunātha haridāsa gadādhara dhana
 
-Śrī Chaitanya’s dear associates, Śrī Svarūp Dāmodar, Rāmānanda Rāya, Rūpa Goswāmī, Sanātan Goswāmī, Raghunāth Dās Goswāmī, Haridās Ṭhākur and Gadādhar Paṇḍit are seeing and performing this ārati.
+They are the treasure of Śrī Svarūp Dāmodar, Rāmānanda Rāya, Rūpa Goswāmī, Sanātan Goswāmī, Raghunāth Dās Goswāmī, Haridās Ṭhākur and Gadādhar Paṇḍit.
 
 #### 10
 

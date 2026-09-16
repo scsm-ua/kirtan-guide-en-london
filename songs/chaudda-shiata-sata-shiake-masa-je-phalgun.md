@@ -183,7 +183,7 @@ Whatever riches Jagannātha Miśra collected in the form of gifts and presentati
 
 #### 110
 
-    śrīvāsera brāhmaṇī,    nāma tāṅra ’mālinī’,
+    śrīvāsera brāhmaṇī,    nāma tāṅra ‘mālinī’,
         āchāryaratnera patnī-saṅge
     sindūra, haridrā, taila,    kha-i, kalā, nārikela,
         diyā pūje nārīgaṇa raṅge
@@ -193,7 +193,7 @@ The wife of Śrīvās Ṭhākur, whose name was Mālinī, accompanied by the wif
 #### 111
 
     advaita-āchārya-bhāryā,    jagat-pūjitā āryā,
-        nāma tāṅra ’sītā ṭhākurāṇī’
+        nāma tāṅra ‘sītā ṭhākurāṇī’
     āchāryera ājñā pāñā,    gela upahāra lañā,
         dekhite bālaka-śiromaṇi
 
@@ -249,7 +249,7 @@ Seeing the transcendental bodily effulgence of the child, each of His nicely con
     durvā, dhānya, dila śīrṣe,    kaila bahu āśīṣe,
         chirajīvī hao dui bhāi
     ḍākinī-śāṅkhinī haite,    śaṅkā upajila chite,
-        ḍare nāma thuila ’nimāi’
+        ḍare nāma thuila ‘nimāi’
 
 She blessed the newborn child by placing fresh grass and paddy on His head and saying, “May You be blessed with a long duration of life.” But being afraid of ghosts and witches, she gave the child the Name Nimāi.
 
