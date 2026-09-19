@@ -49,13 +49,13 @@ first_line: nava-nalina-gañjitaṁ kusuma-dala-maṇḍitaṁ
 
 #### 1-2
 
-(1-2) His two feet resemble fresh petals of a lotus flower and distribute fearless blessings; his divine glowing form puts to shame the glow of gold, and is glorified for its beautiful dancing by all the demigods; his lotus face is so charming it puts to shame the charm of the autumnal moon; his broad forehead is decorated with gopī-chandan tilak; I adore that Śrīdhara-deva Swāmī always.
+His two feet resemble fresh petals of a lotus flower and distribute fearless blessings; his divine glowing form puts to shame the glow of gold, and is glorified for its beautiful dancing by all the demigods; his lotus face is so charming it puts to shame the charm of the autumnal moon; his broad forehead is decorated with gopī-chandan tilak; I adore that Śrīdhara-deva Swāmī always.
 
 #### 3-4
 
-(3-4) He can put to an end our wandering in this material world; he can protect us from fear and death; his beautiful form dressed in saffron robes puts to shame the attraction and taste for mundane beauty; his hands like fresh blossoms distribute bliss; he is the mutually beloved by the devotees; his heart is broad and strong; he preaches the glories of Śrī Govardhan; he spreads the sweet aroma of the abode of Śrī Kṛṣṇa; he punishes the deceivers and refutes their faulty conceptions thereby giving pleasure to the devotees and revealing himself as a pre-eminent sannyāsī preacher. I always adore that Śrīdhara-deva Swāmī.
+He can put to an end our wandering in this material world; he can protect us from fear and death; his beautiful form dressed in saffron robes puts to shame the attraction and taste for mundane beauty; his hands like fresh blossoms distribute bliss; he is the mutually beloved by the devotees; his heart is broad and strong; he preaches the glories of Śrī Govardhan; he spreads the sweet aroma of the abode of Śrī Kṛṣṇa; he punishes the deceivers and refutes their faulty conceptions thereby giving pleasure to the devotees and revealing himself as a pre-eminent sannyāsī preacher. I always adore that Śrīdhara-deva Swāmī.
 
 #### 5
 
-(5) He is a death-sentence to arrogant, haughty demons; he is the saviour of everyone in all the three worlds for he distributes the teachings of Śrī Kṛṣṇa; he is pre-eminent amongst the learned, and the most supreme merciful shelter. I adore that Śrīdhara-deva until my death.
+He is a death-sentence to arrogant, haughty demons; he is the saviour of everyone in all the three worlds for he distributes the teachings of Śrī Kṛṣṇa; he is pre-eminent amongst the learned, and the most supreme merciful shelter. I adore that Śrīdhara-deva until my death.
 
