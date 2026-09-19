@@ -2,7 +2,8 @@
   "meta": {
     "page": 183,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "kabe ha’be bala se-dina āmāra"
+    "first_line": "kabe ha’be bala se-dina āmāra",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Kabe Ha’be Bala"
@@ -14,10 +15,9 @@
     {
       "number": "1",
       "text": [
-        "    kabe ha’be bala se-dina āmāra",
-        "",
+        "            kabe ha’be bala se-dina āmāra",
         "(āmār) aparādha ghuchi’    śuddha nāme ruchi",
-        "    kṛpā-bale ha’be hṛdaye sañchāra"
+        "            kṛpā-bale ha’be hṛdaye sañchāra"
       ],
       "translation": [
         "Please tell me, when will that day be mine – when (my) offences will end and a taste for the pure Holy Name will be infused within my heart by the power of divine grace?"
@@ -51,7 +51,6 @@
       "number": "4",
       "text": [
         "(kabe) karite śrī-kṛṣṇa-    nāma uchāraṇa",
-        "",
         "    pulakita deha gadgada vachana",
         "vaivarṇya-vepathu    habe saṅghaṭana",
         "    nirantara netre va’be aśru-dhāra"

@@ -2,7 +2,8 @@
   "meta": {
     "page": 66,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "bhaja bhakata-vatsala śrī-gaurahari"
+    "first_line": "bhaja bhakata-vatsala śrī-gaurahari",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Śrī Bhoga Ārati Gīti"
@@ -26,7 +27,6 @@
       "number": "2",
       "text": [
         "“belā halo, dāmodara, āisa ekhana",
-        "",
         "bhoga-mandire vasi’ karaha bhojana”"
       ],
       "translation": [

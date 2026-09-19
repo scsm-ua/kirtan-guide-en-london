@@ -38,6 +38,11 @@
         "title": "Śrīla Jagannāth Dās Bābājī"
       },
       {
+        "id": "vancha-kalpatarubhyas-cha",
+        "filepath": "songs/vancha-kalpatarubhyas-cha.md",
+        "title": "Vāñchhā-kalpa-tarubhyaś cha"
+      },
+      {
         "id": "jayatam-suratau-pangor",
         "filepath": "songs/jayatam-suratau-pangor.md",
         "title": "Śrī Śrī Guru Gaurāṅga Rādhā Madana-Mohanjīu"
@@ -51,6 +56,11 @@
         "id": "shriman-rasa-rasarambhi",
         "filepath": "songs/shriman-rasa-rasarambhi.md",
         "title": "Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu"
+      },
+      {
+        "id": "vrindayai-tulasi-devyai",
+        "filepath": "songs/vrindayai-tulasi-devyai.md",
+        "title": "Vṛndāyai tulasī-devyai"
       },
       {
         "id": "namah-om-vishnupadaya-krishna",
@@ -81,17 +91,17 @@
         "id": "hari-nama-mahamantra-sarva-mantra-sara",
         "filepath": "songs/hari-nama-mahamantra-sarva-mantra-sara.md",
         "title": "Daśa-vidha Nāmāparādha"
+      },
+      {
+        "id": "nija-pati-bhuja-danda-chchhatra-bhavam",
+        "filepath": "songs/nija-pati-bhuja-danda-chchhatra-bhavam.md",
+        "title": "Śrī Śrī Govardhana-vāsa-prārthanā-daśakam"
       }
     ]
   },
   {
     "name": "Ārati",
     "items": [
-      {
-        "id": "nija-pati-bhuja-danda-chchhatra-bhavam",
-        "filepath": "songs/nija-pati-bhuja-danda-chchhatra-bhavam.md",
-        "title": "Śrī Śrī Govardhana-vāsa-prārthanā-daśakam"
-      },
       {
         "id": "jaya-jaya-girirajer-arati-vishiala",
         "filepath": "songs/jaya-jaya-girirajer-arati-vishiala.md",
@@ -823,14 +833,9 @@
         "title": "Śrī Jugala Ārati"
       },
       {
-        "id": "smeram-bhangi-traya-parichitam-sachi-vistirna-drishtim",
-        "filepath": "songs/smeram-bhangi-traya-parichitam-sachi-vistirna-drishtim.md",
-        "title": "Keśi Tīrtha Upakaṇṭhe"
-      },
-      {
         "id": "bandhu-sange-yadi-tava-ranga-parihasa",
         "filepath": "songs/bandhu-sange-yadi-tava-ranga-parihasa.md",
-        "title": "Bandhu-saṅge"
+        "title": "Keśi Tīrtha Upakaṇṭhe / Bandhu-saṅge"
       },
       {
         "id": "radha-madhava-kunja-bihari",

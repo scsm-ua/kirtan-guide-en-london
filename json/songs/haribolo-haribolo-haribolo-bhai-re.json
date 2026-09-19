@@ -2,7 +2,8 @@
   "meta": {
     "page": 152,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "haribala haribala haribala bhāi re"
+    "first_line": "haribala haribala haribala bhāi re",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Haribala Bhāi Re"
@@ -49,7 +50,6 @@
       "number": "4",
       "text": [
         "‘hari-bale’ deo bhāi āśāra mukhe chhāi re",
-        "",
         "    (nirāśa ta’ sukha re)",
         "bhoga-mokṣa-vāñchhā chhāḍi’ hari-nāma gāi re",
         "    (śuddha-sattva haye re)"

@@ -2,7 +2,8 @@
   "meta": {
     "page": 65,
     "author": "Śrīla Narottam Dās Ṭhākur",
-    "first_line": "hari haraye namaḥ kṛṣṇa yādavāya namaḥ"
+    "first_line": "hari haraye namaḥ kṛṣṇa yādavāya namaḥ",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Nāma-saṅkīrtan"
@@ -105,7 +106,6 @@
       "number": "10",
       "text": [
         "śrī-guru-vaiṣṇava-pāda-padma kari āśa",
-        "",
         "(hari) nāma-saṅkīrtana kahe narottama dāsa"
       ],
       "translation": [

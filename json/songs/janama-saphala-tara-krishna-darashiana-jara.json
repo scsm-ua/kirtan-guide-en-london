@@ -2,7 +2,8 @@
   "meta": {
     "page": 275,
     "author": "Śrīla Bhakti Vinod Ṭhākur",
-    "first_line": "janama saphala tāra kṛṣṇa-daraśana yāra"
+    "first_line": "janama saphala tāra kṛṣṇa-daraśana yāra",
+    "verse parentheses": "non bold"
   },
   "title": [
     "Rūpa-kīrtan"
@@ -62,9 +63,8 @@
       "number": "5",
       "text": [
         "(sakhī he) sudhāmaya se rūpa mādhurī",
-        "",
-        "dekhile nayana    haya achetana",
-        "    jhare premamaya vāri"
+        "    dekhile nayana    haya achetana",
+        "        jhare premamaya vāri"
       ],
       "translation": [
         "(O sakhī!) O dear girlfriend! Seeing that sweet form abounding in nectar, I have fallen unconscious as a fountain of tears gushing with ecstatic love cascades from my eyes."
