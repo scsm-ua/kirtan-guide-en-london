@@ -2,6 +2,7 @@
 page: 131
 author: Śrīla Lochan Dās Ṭhākur
 first_line: avatāra sāra gorā avatāra
+verse parentheses: non bold
 ---
 
 # Avatāra Sāra

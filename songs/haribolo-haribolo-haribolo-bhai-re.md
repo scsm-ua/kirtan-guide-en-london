@@ -2,6 +2,7 @@
 page: 152
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: haribala haribala haribala bhāi re
+verse parentheses: non bold
 ---
 
 # Haribala Bhāi Re
@@ -36,7 +37,6 @@ Bound by Māyā, I pass my life in vain! (Claiming ‘I’ and ‘mine’!) Cont
 #### 4
 
     ‘hari-bale’ deo bhāi āśāra mukhe chhāi re
-    
         (nirāśa ta’ sukha re)
     bhoga-mokṣa-vāñchhā chhāḍi’ hari-nāma gāi re
         (śuddha-sattva haye re)

@@ -36,12 +36,10 @@ Ganges water does not lose its spiritual nature because it contains foam, mud, a
 
 Similarly, pure devotees are not mundane because of faults within their nature and form that are natural in the material body.
 
-#### 3
+#### 3-4
 
     ataeva dekhiyā bhaktera kadākāra
     svabhāvaja varṇa kārkaśyādi doṣa āra
-
-#### 4
 
     prākṛta baliyā bhakte kabhu nā nindibe
     śuddha-bhakti dekhi’ tā̐re sarvadā vandibe

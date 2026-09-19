@@ -14,7 +14,7 @@ first_line: śrī-svarūpa-rāya-rūpa-jīva-bhāva-sambharaṁ
     varṇa-dharma-nirviśeṣa-sarva-loka-nistaram
     śrī-sarasvatī-priyañ cha bhakti-sundarāśrayaṁ
     śrīdharaṁ namāmi bhakti-rakṣakaṁ jagad-gurum
-    
+
     sindhu-chandra-parvatendu-śāka-janma-līlanaṁ
     śuddha-dīpta-rāga-bhakti-gauravānuśīlanam
     bindu-chandra-ratna-soma-śāka-lochanāntaraṁ

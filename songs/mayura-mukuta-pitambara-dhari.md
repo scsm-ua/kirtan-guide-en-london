@@ -3,6 +3,7 @@ page: 267
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (jaya) mayūra-mukuṭa-pītāmbara-dhārī
 alt_first_lines: mayūra-mukuṭa-pītāmbara-dhārī
+verse parentheses: non bold
 ---
 
 # Mayūra-mukuṭa

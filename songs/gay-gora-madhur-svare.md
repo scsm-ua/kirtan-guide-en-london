@@ -11,9 +11,7 @@ first_line: gāy gorā madhur svare
 #### 1
 
     gāy gorā madhur svare
-    
     “hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-    
     hare rāma hare rāma rāma rāma hare hare”
 
 Lord Gaurasundar sings in a very sweet voice, “Hare Kṛṣṇa Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma, Rāma Rāma Hare Hare.”

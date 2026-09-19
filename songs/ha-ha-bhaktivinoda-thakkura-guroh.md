@@ -6,7 +6,7 @@ first_line: hā hā bhakti-vinoda-ṭhākura! guroḥ!
 
 # Śrīmad Bhakti Vinod Viraha Daśakam
 
-## Prayer in Separation of Śrīla Bhakti Vinod Ṭhākur
+## *Prayer in Separation of Śrīla Bhakti Vinod Ṭhākur
 
 ### Sanskrit composition
 

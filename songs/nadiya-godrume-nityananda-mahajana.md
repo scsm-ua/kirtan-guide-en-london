@@ -2,6 +2,7 @@
 page: 122
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: nadīyā-godrume nityānanda mahājana
+verse parentheses: non bold
 ---
 
 # Ājñā Ṭahal
@@ -21,8 +22,7 @@ In the land of Nadīyā, on the island of Godruma, the magnanimous Lord Nityāna
     prabhura ājñāya, bhāi, māgi ei bhikṣā
     bala ‘kṛṣṇa,’ bhaja kṛṣṇa, kara kṛṣṇa-śikṣā
 
-(O people of faith! O people of faith!)
-
+(O people of faith! O people of faith!)\
 By the order of Lord Gaurāṅga, O brothers, I beg these three requests of you: Chant “Kṛṣṇa!”, worship Kṛṣṇa, and teach others about Kṛṣṇa.
 
 #### 3

@@ -3,7 +3,7 @@ page: 202
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: gāite gāite nāma ki daśā ha-ila
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam – Verse 7
+  - Śrī Śikṣāṣṭakam – Verse 7 (a)
   - yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam
 ---
 
@@ -23,7 +23,6 @@ alt_first_lines:
 #### 1
 
     gāite gāite nāma ki daśā ha-ila
-    
     “kṛṣṇa-nitya-dāsa mui” hṛdaye sphurila
 
 Chanting the Name again and again, what was my condition? Within my heart I realised, “I am an eternal servant of Kṛṣṇa.”

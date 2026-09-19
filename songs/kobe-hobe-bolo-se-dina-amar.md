@@ -2,6 +2,7 @@
 page: 183
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: kabe ha’be bala se-dina āmāra
+verse parentheses: non bold
 ---
 
 # Kabe Ha’be Bala
@@ -10,10 +11,9 @@ first_line: kabe ha’be bala se-dina āmāra
 
 #### 1
 
-        kabe ha’be bala se-dina āmāra
-    
+                kabe ha’be bala se-dina āmāra
     (āmār) aparādha ghuchi’    śuddha nāme ruchi
-        kṛpā-bale ha’be hṛdaye sañchāra
+                kṛpā-bale ha’be hṛdaye sañchāra
 
 Please tell me, when will that day be mine – when (my) offences will end and a taste for the pure Holy Name will be infused within my heart by the power of divine grace?
 
@@ -38,7 +38,6 @@ Wealth, following, beautiful women, as described in worldly poetry – I do not 
 #### 4
 
     (kabe) karite śrī-kṛṣṇa-    nāma uchāraṇa
-    
         pulakita deha gadgada vachana
     vaivarṇya-vepathu    habe saṅghaṭana
         nirantara netre va’be aśru-dhāra

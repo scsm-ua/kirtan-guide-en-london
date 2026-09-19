@@ -1,5 +1,6 @@
 ---
 page: 209
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 first_line: kṛṣṇa-līlāmṛta-sāra, tāra śata śata dhāra
 ---
 

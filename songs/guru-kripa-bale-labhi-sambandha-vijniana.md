@@ -10,7 +10,6 @@ alt_first_lines:
 # Śrī Śrī Upadeśāmṛta
 
 ## Sweet Upward Guidance to Eternity
-
 ## Verse One
 
 ### Eleven Sanskrit verses by Śrīla Rūpa Goswāmī Prabhu
@@ -56,7 +55,7 @@ All these instructions are for householders, and they are of utmost importance f
 
     vākya-vega mano-vega krodha-vega āra
     jihva-vega udara-upastha-vega chhāra
-    
+
     ei chhaya vega sahi’ kṛṣṇa-nāmāśraye
     jagat śāsite pāre parājiyā bhaye
 

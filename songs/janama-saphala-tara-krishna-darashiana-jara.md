@@ -2,6 +2,7 @@
 page: 275
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: janama saphala tāra kṛṣṇa-daraśana yāra
+verse parentheses: non bold
 ---
 
 # Rūpa-kīrtan
@@ -46,9 +47,8 @@ Beholding Him standing at the base of a kadamba tree, I can see that Kṛṣṇa
 #### 5
 
     (sakhī he) sudhāmaya se rūpa mādhurī
-    
-    dekhile nayana    haya achetana
-        jhare premamaya vāri
+        dekhile nayana    haya achetana
+            jhare premamaya vāri
 
 (O sakhī!) O dear girlfriend! Seeing that sweet form abounding in nectar, I have fallen unconscious as a fountain of tears gushing with ecstatic love cascades from my eyes.
 

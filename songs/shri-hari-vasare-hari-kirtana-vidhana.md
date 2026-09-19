@@ -75,7 +75,7 @@ In the ecstasy of whose Name, Śiva does not notice if he is clothed. In that ec
 
     yā̐ra nāme vālmīki ha-ila tapodhana
     yā̐ra nāme ajāmila pāila mochana
-    
+
     yā̐ra nāme śravane saṁsāra-bandha ghuche
     hena prabhu avatari kali-yuge nāche
 
@@ -85,7 +85,7 @@ By whose Name Vālmīki became a powerful sage, by whose Name Ajāmil attained l
 
     yā̐ra nāma la-i śuka nārada beḍāya
     sahasra-vadana-prabhu yāra guṇa gāya
-    
+
     sarva-mahā-prāyaśchita ye prabhura nāma
     se prabhu nāchaye dekhe yata bhāgyavān
 

@@ -1,5 +1,6 @@
 ---
 page: 166
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: bhagavad-bhaktitaḥ sarvam
 ---
 

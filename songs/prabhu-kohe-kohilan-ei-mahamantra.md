@@ -12,16 +12,16 @@ first_line: prabhu kahe – “kahilāṅ ei mahāmantra...”
 
     “hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare”
-    
+
     prabhu kahe – “kahilāṅ ei mahāmantra
     ihā japa’ giyā sabe kariyā nirbandha
-    
+
     ihā haite sarva-siddhi ha-ibe sabāra
     sarva-kṣaṇa bala’ ithe vidhi nāhi āra
-    
+
     ki śayane ki bhojane, ki vā jāgaraṇe
     ahar-niśa chinta kṛṣṇa, balaha vadane
-    
+
     āma-prati sneha yadi thāke sabākāra
     kṛṣṇa vinā keha kichhu nā balibe āra”
 

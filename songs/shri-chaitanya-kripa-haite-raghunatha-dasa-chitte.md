@@ -6,7 +6,9 @@ first_line: śrī-chaitanya-kṛpā haite raghunātha-dāsa-chitte
 
 # Śrīla Raghunāth Dās Goswāmī Śochaka
 
-## Śrīla Raghunāth Dās’ Deep Sorrow – Kīrtan Two
+## Śrīla Raghunāth Dās’ Deep Sorrow
+
+## Kīrtan Two
 
 ### unknown composer, from the Maṭh’s Śrī Gauḍīya Gitāñjali
 

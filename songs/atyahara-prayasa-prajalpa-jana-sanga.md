@@ -52,7 +52,7 @@ Village talk is called prajalpa. Restlessness of thought produced by material de
 
     viṣayī yoṣit-saṅgī tat-tat-saṅgī āra
     māyāvādī dharma-dhvajī nāstika prakāra
-    
+
     se saba asat-saṅga bhakti-hānikara
     viśeṣa yatane sei saṅga parihara
 

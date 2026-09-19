@@ -156,7 +156,8 @@ Dancing and dancing throughout the town of Nadia, Nitāi sings!
     puraṭa-sundara vāsudeva-trāṇa-kartā
     rāmānanda-sakhā bhaṭṭa-kula-kleśa-hartā
 
-(71) O beautiful golden Lord, (72) O deliverer of (the leper) Vāsudev, (73) O friend of Rāmānanda Rāy,\
+(71) O beautiful golden Lord, (72) O deliverer of (the leper) Vāsudev,\
+(73) O friend of Rāmānanda Rāy,\
 (74) O remover of hardship from the Bhaṭṭa family!
 
 #### 19
@@ -195,7 +196,8 @@ Dancing and dancing throughout the town of Nadia, Nitāi sings!
     kāśī-vāsi-sannyāsī-uddhārī prema-dātā
     markaṭa-vairāgī-daṇḍī āchaṇḍāla-trātā
 
-(92) O saviour of the sannyāsīs of Kāśī, (93) O giver of divine love, (94) O punisher of the false monkey-like renunciants,\
+(92) O saviour of the sannyāsīs of Kāśī, (93) O giver of divine love,\
+(94) O punisher of the false monkey-like renunciants,\
 (95) O deliverer of even the outcasts!
 
 #### 24

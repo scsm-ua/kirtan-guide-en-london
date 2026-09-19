@@ -2,6 +2,7 @@
 page: 136
 author: Śrīla Vāsudeva Ghoṣ
 first_line: yadi gaura nā hata tabe ki ha-ita
+verse parentheses: non bold
 ---
 
 # Yadi Gaura Nā Hata
@@ -38,11 +39,9 @@ Sing again and again the wonderful qualities of Lord Gaurāṅga while keeping y
 #### 4
 
     (āmi) gaurāṅga baliyā    nā genu galiyā
-    
-        kemane dharinu de
-    vāsura-hiyā    pāṣāṇa diyā
-    
-    (vidhi) kemane gaḍiyāchhe
+                    kemane dharinu de
+            vāsura-hiyā    pāṣāṇa diyā
+        (vidhi) kemane gaḍiyāchhe
 
 Even though I am chanting “Gaurāṅga!”, somehow I have not melted in ecstatic love. So how have I maintained the burden of this body? How is it that the creator has given this Vāsu a stone in place of his heart?
 

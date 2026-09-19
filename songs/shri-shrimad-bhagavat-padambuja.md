@@ -1,5 +1,6 @@
 ---
 page: 211
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: śrī-śrīmad-bhagavat-padāmbuja
 ---
 

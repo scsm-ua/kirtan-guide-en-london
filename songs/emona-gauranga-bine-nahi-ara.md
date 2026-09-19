@@ -2,6 +2,7 @@
 page: 137
 author: Śrīla Premānanda Dās
 first_line: emana gaurāṅga vine nāhi āra
+verse parentheses: non bold
 ---
 
 # Emana Gaurāṅga Vine Nāhi Āra

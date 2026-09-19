@@ -6,7 +6,9 @@ first_line: yabe rūpa-sanātana vraje gelā dui jana
 
 # Śrīla Raghunāth Dās Goswāmī Śochaka
 
-## Śrīla Raghunāth Dās’ Deep Sorrow – Kīrtan One
+## Śrīla Raghunāth Dās’ Deep Sorrow
+
+## Kīrtan One
 
 ### unknown composer, from the Maṭh’s Śrī Gauḍīya Gitāñjali
 

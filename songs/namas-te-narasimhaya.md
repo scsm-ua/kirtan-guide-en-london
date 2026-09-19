@@ -20,14 +20,13 @@ I offer my obeisances to Lord Nṛsiṁha, who gives joy to Prahlād Mahārāj a
     bahir nṛsiṁho hṛdaye nṛsiṁho
         nṛsiṁham ādiṁ śaraṇaṁ prapadye
 
-Lord Nṛsiṁha is here and also there. Wherever I go Lord Nṛsiṁha is there. He is in the heart and is outside as well. I surrender to Lord Nṛsiṁha, the origin of all things and the supreme refuge.
-
+Lord Nṛsiṁha is here and also there. Wherever I go Lord Nṛsiṁha is there. He is in the heart and is outside as well. I surrender to Lord Nṛsiṁha, the origin of all things and the supreme refuge.\
 *(Śrīla Vyasādeva)*
 
     tava kara-kamala-vare nakham adbhuta-śṛṅgaṁ
     dalita-hiraṇyakaśipu-tanu-bhṛṅgam
     keśava dhṛta-narahari-rūpa jaya jagadīśa hare
 
-O Keśava! O Lord of the universe! O Lord Hari, who have assumed the form of half-man, half-lion! All glories to You! Just as one can easily crush a wasp between one’s fingernails, so in the same way the body of the wasplike demon Hiraṇyakaśipu has been ripped apart by the wonderful pointed nails on Your beautiful lotus hands.
-
+O Keśava! O Lord of the universe! O Lord Hari, who have assumed the form of half-man, half-lion! All glories to You! Just as one can easily crush a wasp between one’s fingernails, so in the same way the body of the wasplike demon Hiraṇyakaśipu has been ripped apart by the wonderful pointed nails on Your beautiful lotus hands.\
 *(Śrīla Jayadev Goswāmī)*
+

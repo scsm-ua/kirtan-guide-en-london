@@ -1,5 +1,6 @@
 ---
 page: 201
+author: Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 first_line: mātala hari-jana kīrtana-raṅge
 ---
 

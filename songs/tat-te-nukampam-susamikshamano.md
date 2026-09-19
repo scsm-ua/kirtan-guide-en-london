@@ -1,5 +1,6 @@
 ---
 page: 311
+no-author: 1
 first_line: tat te ’nukampāṁ susamīkṣamāṇo
 ---
 

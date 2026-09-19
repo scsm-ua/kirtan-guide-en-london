@@ -11,9 +11,7 @@ first_line: nārada muni, bājāya vīṇā,
 #### 1
 
     nārada muni,    bājāya vīṇā,
-    
-    ‘rādhikā-ramaṇa’-nāme
-    
+        ‘rādhikā-ramaṇa’-nāme
     nāma amani,    udita haya,
         bhakata-gīta-sāme
 
@@ -49,9 +47,7 @@ The five-faced Lord Śiva embraces Nārada Muni and repeatedly makes loud scream
 #### 5
 
     sahasrānana,    parama-sukhe,
-    
-    ‘hari hari’ bali gāya
-    
+        ‘hari hari’ bali gāya
     nāma-prabhāve,    mātila viśva,
         nāma-rasa sabe pāya
 

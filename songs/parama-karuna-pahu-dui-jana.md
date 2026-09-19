@@ -2,6 +2,7 @@
 page: 127
 author: Śrīla Lochan Dās Ṭhākur
 first_line: parama karuṇa pahu̐ dui jana
+verse parentheses: non bold
 ---
 
 # Śrī Śrī Gaura-Nityānander Dayā

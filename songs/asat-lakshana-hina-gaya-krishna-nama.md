@@ -40,7 +40,7 @@ Always honour with obeisances great souls who are initiated and serve Kṛṣṇ
 
     bhajana-chatura yei tā̐ra kara sevā
     kṛṣṇamaya sabe dekhe suvaiṣṇava yebā
-    
+
     śatru mitra sad asat kichhu nā vichāre
     sarvottama saṅga bali’ sevaha tā̐hāre
 

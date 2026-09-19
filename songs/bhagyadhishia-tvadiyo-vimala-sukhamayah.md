@@ -44,7 +44,7 @@ Even gods and goddesses are unable to sing your praiseworthy qualities and attri
         gaura-devo dayāyā
     rūpaṁ gauḍe bhavastaṁ parama-karuṇayā
         prāhinod-dīna bandho!
-    
+
     etaj jñātvā prakāśāt sudina-samudayaṁ
         smāramāśāḥ saharṣā
     jayante chaiva māyā-nigaḍa-nikara-

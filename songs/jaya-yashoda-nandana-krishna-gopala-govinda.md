@@ -3,6 +3,7 @@ page: 263
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (jaya) yaśodā-nandana kṛṣṇa gopāla govinda
 alt_first_lines: yaśodā-nandana kṛṣṇa gopāla govinda
+verse parentheses: non bold
 ---
 
 # Jaya Yaśodā Nandana Kṛṣṇa

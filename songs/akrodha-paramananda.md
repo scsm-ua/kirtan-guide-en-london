@@ -2,6 +2,7 @@
 page: 126
 author: Śrīla Lochan Dās Ṭhākur
 first_line: akrodha paramānanda nityānanda rāya
+verse parentheses: non bold
 ---
 
 # Akrodha Paramānanda Nityānanda Rāya

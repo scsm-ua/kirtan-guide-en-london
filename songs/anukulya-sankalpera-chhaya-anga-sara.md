@@ -24,7 +24,7 @@ There are six principles favourable to the execution of pure devotional service:
 
     ānukūlya-saṅkalpera chhaya aṅga sāra
     utsāha viśvāsa dhairya tat-tat-karma āra
-    
+
     saṅga-tyāga sādhu-vṛtti karile āśraya
     bhakti-yoga-siddhi labhe sarva-śāstre kaya
 
@@ -34,7 +34,7 @@ All the scriptures say that if one takes shelter in the six most important aspec
 
     bhakti-anuṣṭhāne utsāhera prayojana
     bhaktite viśvāsa dṛḍha dhairyāvalambana
-    
+
     ye karma karile haya bhaktira ullāsa
     ye karma jīvana-yātrā nirvāhe prayāsa
 

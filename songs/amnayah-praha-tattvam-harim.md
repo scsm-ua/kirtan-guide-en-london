@@ -16,26 +16,16 @@ alt_first_lines: Daśa-mūla-tattva
     bhedābheda-prakāśaṁ sakalam api hareḥ sādhanaṁ śuddha-bhaktiṁ
     sādhyaṁ tat-prītim evety upadiśati janān gaurachandraḥ svayaṁ saḥ
 
-“Śrī Gaurachandra personally teaches the souls that
-
-(1) revealed knowledge establishes the Truth:
-
-(2) Hari is supreme,
-
-(3) He is omnipotent,
-
-(4) He is an ocean of rasa,
-
-(5) the souls are His separated parts,
-
-(6) they are either covered by material energy,
-
-(7) or liberated from material energy by devotion,
-
-(8) everything is a manifestation distinct and non-distinct from Hari,
-
-(9) pure devotion is the way, and
-
+“Śrī Gaurachandra personally teaches the souls that\
+(1) revealed knowledge establishes the Truth:\
+(2) Hari is supreme,\
+(3) He is omnipotent,\
+(4) He is an ocean of rasa,\
+(5) the souls are His separated parts,\
+(6) they are either covered by material energy,\
+(7) or liberated from material energy by devotion,\
+(8) everything is a manifestation distinct and non-distinct from Hari,\
+(9) pure devotion is the way, and\
 (10) love for Hari is the goal.”
 
 *Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj:*
