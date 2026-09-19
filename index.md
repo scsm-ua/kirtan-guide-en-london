@@ -168,7 +168,7 @@
 - [samudra-sambhavā gābhī surabhī āpana](songs/samudra-sambhava-gabhi-surabhi-apana.md)
 - [śarīra avidyā-jāla jaḍendriya tāhe kāla](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 - [sarvasva tomāra, charaṇe sa̐piyā,](songs/sarvasva-tomara-charane-sanpiya.md)
-- [smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣṭiṁ](songs/smeram-bhangi-traya-parichitam-sachi-vistirna-drishtim.md)
+- [smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣṭiṁ](songs/bandhu-sange-yadi-tava-ranga-parihasa.md)
 - [Śrī Śikṣāṣṭakam Verse Eight (b)](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
 - [Śrī Śikṣāṣṭakam Verse Eight](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [Śrī Śikṣāṣṭakam Verse Five](songs/anadi-karama-phole.md)
