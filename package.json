@@ -18,6 +18,6 @@
     "test:authors": "songbook-test-authors"
   },
   "dependencies": {
-    "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser"
+    "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser#v1.8.0"
   }
 }
