@@ -9,7 +9,6 @@ first_line: hari-nāma mahāmantra sarva-mantra-sāra
 ## The Ten Offences to the Holy Name
 
 ### Bengali composition by
-
 ### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1

@@ -9,7 +9,6 @@ first_line: guror guro me paramo gurus tvaṁ
 ## Ten Verses of Obeisances to Śrīla Gaura Kiśor Dās Bābājī Mahārāj
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

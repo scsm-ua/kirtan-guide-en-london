@@ -1,5 +1,6 @@
 ---
 page: 191
+no-author: 1
 first_line: nāma-chintāmaṇiḥ kṛṣṇa-chaitanya-rasa-vigrahaḥ
 ---
 

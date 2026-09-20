@@ -9,7 +9,6 @@ first_line: śrīmach-chaitanya-pādau chara-kamala-yugau
 ## Aspiring for the Dust of Śrīmad Rūpa Goswāmī’s Lotus Feet
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

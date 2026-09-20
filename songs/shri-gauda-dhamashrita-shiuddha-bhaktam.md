@@ -9,7 +9,6 @@ first_line: śrī-gauḍa-dhāmāśrita-śuddha-bhaktaṁ
 ## Eight Verses in Obeisance to Śrīla Gaura Kiśor Dās Bābājī Mahārāj
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

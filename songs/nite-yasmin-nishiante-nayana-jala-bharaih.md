@@ -9,7 +9,6 @@ first_line: nīte yasmin niśānte nayana-jala-bharaiḥ
 ## Prayer unto Bhagavān Śrī Śrīmad Bhakti Siddhānta Saraswatī Ṭhākur after his manifest Pastimes.
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

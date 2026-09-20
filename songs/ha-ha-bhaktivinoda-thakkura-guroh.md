@@ -9,7 +9,6 @@ first_line: hā hā bhakti-vinoda-ṭhākura! guroḥ!
 ## *Prayer in Separation of Śrīla Bhakti Vinod Ṭhākur
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

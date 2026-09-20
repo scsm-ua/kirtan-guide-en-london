@@ -7,7 +7,6 @@ first_line: jaya guru mahārāja karuṇā-sāgara
 # Śrī Śrī Nitāi-Chaitanya Ārati
 
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
-
 ### for the āratis in our Jagannāth Purī Temple
 
 #### 1

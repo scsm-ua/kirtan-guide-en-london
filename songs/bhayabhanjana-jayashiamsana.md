@@ -9,7 +9,6 @@ first_line: bhayabhañjana jayaśaṁsana-karuṇāyata-nayanam
 ## Homage unto Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 
 ### Sanskrit composition by
-
 ### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

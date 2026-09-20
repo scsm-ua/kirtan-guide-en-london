@@ -9,7 +9,6 @@ first_line: guru-rūpa-virājita-nanda-sutaṁ
 ## Eight Flower Offerings of Praise to Lord Gaurahari
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

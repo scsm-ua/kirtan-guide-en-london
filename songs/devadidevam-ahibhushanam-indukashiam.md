@@ -7,7 +7,6 @@ first_line: devādidevam-ahibhūṣaṇam-indukāśaṁ
 # Gaṅgādhara Sadāśiva Praṇām-mantram
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
     devādidevam-ahibhūṣaṇam-indukāśaṁ

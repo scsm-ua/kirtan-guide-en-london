@@ -9,7 +9,6 @@ first_line: mahābhaya śaṅkula e-bhava taraṅginī
 ## Insurmountable Illusion
 
 ### Composition about surrendering to Māyā’s Master,
-
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1

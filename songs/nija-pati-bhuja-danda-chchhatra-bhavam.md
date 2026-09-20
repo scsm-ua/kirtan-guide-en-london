@@ -11,7 +11,6 @@ first_line: nija-pati-bhuja-daṇḍa-chchhatra-bhāvaṁ prapadya
 ### Composed by Śrīla Raghunāth Dās Goswāmī Prabhu in Sanskrit.
 
 ### The preferred prayer to Śrī Govardhan of
-
 ### Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 
 #### 1

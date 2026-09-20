@@ -7,7 +7,6 @@ first_line: jaya jaya gurudever ārati ujjvala
 # Śrī Guru Ārati
 
 ### Glorification of Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
-
 ### by Śrīpād B.A. Paramahaṁsa Mahārāj
 
 #### 1

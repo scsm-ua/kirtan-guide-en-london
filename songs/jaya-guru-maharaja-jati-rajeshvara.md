@@ -7,7 +7,6 @@ first_line: jaya ‘guru-mahārāja’ yati-rājeśvara
 # Śrī Guru-ārati-stuti
 
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
-
 ### in glorification of Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

@@ -9,7 +9,6 @@ first_line: bhāgyādhīśa! tvadīyo vimala-sukhamayaḥ
 ## In honour of Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj’s holy appearance day.
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1

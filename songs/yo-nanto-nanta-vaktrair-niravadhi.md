@@ -9,7 +9,6 @@ first_line: yo ’nanto ’nanta-vaktrair niravadhi
 ## Twelve Prayers revealing the ontological position and Pastimes of Śrī Nityānanda Prabhu
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1

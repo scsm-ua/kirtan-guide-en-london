@@ -7,7 +7,6 @@ first_line: jaya jaya girirājer āratika śobhā
 # Śrī Śrī Girirāj-Govardhan Ārati
 
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
-
 ### for the āratis in our Govardhan Temple
 
 #### 1

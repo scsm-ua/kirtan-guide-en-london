@@ -9,7 +9,6 @@ first_line: nava-nalina-gañjitaṁ kusuma-dala-maṇḍitaṁ
 ## In honour of Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj.
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1

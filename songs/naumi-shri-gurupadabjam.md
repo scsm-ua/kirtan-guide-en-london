@@ -11,7 +11,6 @@ first_line: naumi śrī-gurupādābjaṁ yatirājeśvareśvaraṁ
 ### Offered on his 94th holy day of advent, 1988.
 
 ### Sanskrit composition
-
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1
