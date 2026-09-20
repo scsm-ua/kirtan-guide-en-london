@@ -1,6 +1,6 @@
 ---
 page: 22
-author: Śrīla Rūpa Goswāmī
+author: Śrīla Rūpa Goswāmī Prabhu
 first_line: vāñchhā-kalpa-tarubhyaś cha
 ---
 
