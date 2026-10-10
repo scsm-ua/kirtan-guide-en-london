@@ -1,5 +1,60 @@
 [
   {
+    "name": "Intro",
+    "items": [
+      {
+        "id": "001-title",
+        "filepath": "pages/001-title.md",
+        "title": "Kīrtan Guide"
+      },
+      {
+        "id": "002-copyright",
+        "filepath": "pages/002-copyright.md",
+        "title": "Copyright"
+      },
+      {
+        "id": "003-programme",
+        "filepath": "pages/003-programme.md",
+        "title": "Framework of The Daily Programme"
+      },
+      {
+        "id": "007-foreword",
+        "filepath": "pages/007-foreword.md",
+        "title": "Foreword to this Twelfth Edition"
+      },
+      {
+        "id": "009-preface",
+        "filepath": "pages/009-preface.md",
+        "title": "Preface to the First Bengali Edition"
+      },
+      {
+        "id": "011-elixir",
+        "filepath": "pages/011-elixir.md",
+        "title": "The Elixir of Life"
+      },
+      {
+        "id": "013-handwritten-advice",
+        "filepath": "pages/013-handwritten-advice.md",
+        "title": "Handwritten Advice"
+      },
+      {
+        "id": "014-my-advice",
+        "filepath": "pages/014-my-advice.md",
+        "title": "My Advice"
+      },
+      {
+        "id": "335-bengali",
+        "filepath": "pages/335-bengali.md",
+        "title": "Bengali – a brief pronunciation guide"
+      },
+      {
+        "id": "340-end",
+        "filepath": "pages/340-end.md",
+        "title": "Śrī Chaitanya Sāraswat Maṭh"
+      }
+    ]
+  },
+  {
     "name": "Vandanā",
     "items": [
       {
