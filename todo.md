@@ -1,63 +1,34 @@
-## Meta
+# Bold fix
 
-check missing meta.author
+## Fix bold logic
 
-## Review songs formatting
+Notes now `***` italic + bold.
 
-**Footnote:** - make render bold?
+`**` used in word-by-word as italic and bold.
 
-verse parentheses: non bold
+For translation `**` must be bold, for word-by-word - italic+bold.
 
-## Tasks
+## Fix `***` render newline
 
-author: namas-te-narasimhaya - only Vyasadev, not Jayadev (check other songbooks)
-no author: Hare Kṛṣṇa Mahāmantra
-
-review all authors
-
-## Minor formatting
-
-Format of `‘‘`:
-    ‘‘guru kṛṣṇa-rūpa hana śāstrera pramāṇe
-    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne’’
-
-How to handle (NBSP) — U+00A0
-
-Temporary make bold notes with `***`
-
-Make bold Jay dhvani explanations.
-
-Linebreak after note:
-    Note:
+Linebreak apered after note:
+    ***Note:***
 
     Govardhana means “He who nourishes (vardhana) the cows (go).”
 
-# Origin questions
+No line break expected.
 
-Do we need text: Optional ākhars:
+## Fix author text in all songook
 
-missin finishing (“):
-    “mochā-ghaṇṭa phula-baḍi
+author: namas-te-narasimhaya - only Vyasadev, not Jayadev (check other songbooks)
 
-how to render two titles in one page: Keśi Tīrtha Upakaṇṭhe + Bandhu-saṅge
+no author: Hare Kṛṣṇa Mahāmantra
 
-a̐ or ā̐
-    sarvasva tomāra, charaṇe sa̐piyā,
-    sarvasva tomāra, charaṇe sā̐piyā
+## Fix default formatiing
 
-index:
-    smerāṁ bhaṅgī-traya-paricitāṁ sāci-vistīrṇa-dṛṣṭiṁ
-    smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣṭiṁ
+was: `verse parentheses: non bold`
+make `verse parentheses: bold` otherwise non bold by default.
 
-Do we need text (optional ākhars) if no page break.
-
-Need number 8 for dayā kara prabhupāda śrī-gaura-prakāśa?
-
-Need add verse number: Third related composition by Śrīla Bhakti Vinod Ṭhākur:
-
-# Additional work
-
-Subtitles: newlines with less space between lines.
+## Verse width formatting
 
 In song with long verses disable left margin for verse, or less font (
     namamishvaram-sachchidananda-rupam
@@ -66,16 +37,35 @@ In song with long verses disable left margin for verse, or less font (
     -and all next
 )
 
+## New verse in translation formatting
+
+Prema-dhava... - quotations in text non bold
+
+## Workaround splitted verse and translation
+
 Hide verse, translation - for separated transltions like:
     - naumi-shri-gurupadabjam
     - shri-rupa-manjari-pada-sei-mora-sampada
 
-Prema-dhava... - quotations in text non bold
+## New formattin
 
 --- - verse splitter in Siskastaka and Upadeśāmṛta
 
-Real contents as programms
-Return from begining to Vandanā
-Bengali – a brief pronunciation guide
-Photos
-Copyright
+==================
+
+## Minor formatting
+
+How to handle (NBSP) — U+00A0
+
+# Additional work
+
+Render:
+    Real contents as programms
+    Return from begining to Vandanā
+    Copyright
+
+Rivew and render:
+    Bengali – a brief pronunciation guide
+
+Implement:
+    Photos
