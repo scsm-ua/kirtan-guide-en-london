@@ -3,11 +3,15 @@ page: 14
 title: My Advice
 ---
 
+<div style="text-align: center;">
+
 # My Advice
 
-### by Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur.
+*by Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur.*\
+*The following Bengali quotations were published in*\
+Śrī Gauḍīya Darśan, Volume 10, Issue 7, 1956
 
-### The following Bengali quotations were published in Śrī Gauḍīya Darśan, Volume 10, Issue 7, 1956
+</div>
 
 As written in Śrīmān Mahāprabhu’s Śikṣāṣṭakam, *“Paraṁ vijayate Śrī-Kṛṣṇa-saṅkīrtanam*: may Śrī Kṛṣṇa-saṅkīrtanam be supremely victorious!” This is the Gauḍiyā Maṭh’s only objective.
 

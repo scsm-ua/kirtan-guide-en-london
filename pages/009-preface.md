@@ -3,11 +3,15 @@ page: 9
 title: Preface to the First Bengali Edition
 ---
 
+<div style="text-align: center;">
+
 *Śrī Śrī Guru Gaurāṅgau jayataḥ*
 
 # Preface to the First Bengali Edition
 
-### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+*by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj*
+
+</div>
 
 By the causeless mercy of Śrī Guru and Śrī Gaurāṅga, a long-standing need has been fulfilled within a very short time by this publication of *Śrī Gauḍīya-Gītāñjali*. You will find in this *Śrī Gauḍīya-Gītāñjali* nearly all the kīrtans in the line of Śrī Bhakti Vinod-Saraswatī that were sung both daily and on special days in the time of Śrīla Prabhupād Bhakti Siddhānta Saraswatī Ṭhākur, and that are still now sung in Śrī Chaitanya Sāraswat Maṭh.
 
@@ -19,7 +23,7 @@ Amongst all my godbrothers who have received the mercy of Śrī Guru and Śrī G
 
 O Vaiṣṇavas who see no faults! If you will mercifully pardon me for all the errors, as a result of my incapacity in editing, that have diminished the beauty of this collection of supramundane songs, and inform this fallen soul of them so that proper service may be rendered in a future edition, I will be most grateful.
 
-> Humble, poor, and fallen,\
-The editor\
-Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj\
-(1983)
+&nbsp;&nbsp;&nbsp;&nbsp;Humble, poor, and fallen,\
+&nbsp;&nbsp;&nbsp;&nbsp;The editor\
+&nbsp;&nbsp;&nbsp;&nbsp;Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj\
+&nbsp;&nbsp;&nbsp;&nbsp;(1983)

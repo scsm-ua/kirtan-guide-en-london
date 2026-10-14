@@ -3,9 +3,23 @@ page: 3
 title: Framework of The Daily Programme
 ---
 
+<style>
+h1, h2, h4 {
+    margin-bottom: 0.4em !important;
+}
+p {
+    margin-bottom: 0.6em !important;
+}
+</style>
+
+<div style="text-align: center;">
+
 # Framework of The Daily Programme
 
-**at Śrī Chaitanya Sāraswat Maṭh, Nabadwīp**
+<h3 style="margin-top: 0px;">at Śrī Chaitanya Sāraswat Maṭh, Nabadwīp</h3>
+
+</div>
+
 
 The first line of each kirtan is given along with the its page number.
 

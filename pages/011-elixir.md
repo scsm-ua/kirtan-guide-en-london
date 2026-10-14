@@ -3,16 +3,20 @@ page: 11
 title: The Elixir of Life
 ---
 
+<div style="text-align: center;">
+
 *All glories to Śrī Guru and Śrī Gaurāṅga*
 
 # The Elixir of Life
 
-### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj glorifies the songs of Śrīla Bhakti Vinod Ṭhākur and Śrīla Narottam Dās Ṭhākur.
+*Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj glorifies the songs of Śrīla Bhakti Vinod Ṭhākur and Śrīla Narottam Dās Ṭhākur.*
+
+</div>
 
     rakṣā arabi tuhu̐ niśchaya jāni
     pāna karabu̐ hāma yāmuna-pāni
 
-*(Śaraṇāgati: 23.5)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(Śaraṇāgati: 23.5)*
 
 Śrīla Bhakti Vinod Ṭhākur described the surrendered soul’s mood of devotion in this song: “Kṛṣṇa must save us, so we have no fear of anything.” We become fearful when we see that we are living within a body, but if we live within our consciousness – real Kṛṣṇa consciousness – then we have nothing to fear. Actually, bodies come and go. We are not greatly interested in our body. We are interested in our spiritual body, our transcendental body. That exists within the plane of service, and service exists within the plane of faith. Service does not come to someone who is not faithful to their Guru; such persons lose their service. So, we should try to understand the plane of real devotion, and then we will be able to play there.
 
@@ -21,7 +25,7 @@ title: The Elixir of Life
     kālīya-dokha karabi vināśā
     śodhabi nadī-jala bāḍāobi āśā
 
-*(Śaraṇāgati: 23.5–26)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(Śaraṇāgati: 23.5–26)*
 
 [“Knowing for certain that You will protect me, I will drink the water of the Yamunā (even though it has been poisoned by the serpent Kālīya). You will absolve Kālīya of his offences, purify the Yamunā’s waters, and thus increase my faith.”]
 

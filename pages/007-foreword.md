@@ -3,9 +3,13 @@ page: 7
 title: Foreword to this Twelfth Edition
 ---
 
+<div style="text-align: center;">
+
 *All glories to Śrī Guru and Śrī Gaurāṅga*
 
 # Foreword to this Twelfth Edition
+
+</div>
 
 Śrīla Guru Mahārāj Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj and Śrīla Gurudev Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj established the daily programme of Śrī Chaitanya Sāraswat Maṭh. To assist pilgrims follow that programme, the first English *Kīrtan Guide* in 1990 brought together many of the principal kīrtans sung in the Maṭh.
 
@@ -35,8 +39,8 @@ I respectfully bow to the lotus feet of all the Vaiṣṇavas, praying that ther
 
 Hoping to be helpful to everyone in following the perfect guidance of our perfect masters,
 
-> B. R. Madhusūdan (Mahānanda Dās B. R.)\
-Foreign Secretary\
-Śrī Chaitanya Sāraswat Maṭh\
-of Śrīla Guru Mahārāj and Śrīla Gurudev\
-(2026)
+&nbsp;&nbsp;&nbsp;&nbsp;B. R. Madhusūdan (Mahānanda Dās B. R.)\
+&nbsp;&nbsp;&nbsp;&nbsp;Foreign Secretary\
+&nbsp;&nbsp;&nbsp;&nbsp;Śrī Chaitanya Sāraswat Maṭh\
+&nbsp;&nbsp;&nbsp;&nbsp;of Śrīla Guru Mahārāj and Śrīla Gurudev\
+&nbsp;&nbsp;&nbsp;&nbsp;(2026)
