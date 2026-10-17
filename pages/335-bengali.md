@@ -7,7 +7,7 @@ title: Bengali – a brief pronunciation guide
 
 For a more extensive description, please see the appendix of the Maṭh’s *Śaraṇāgatī* publication. However, it is always best to hear from a native Bengali.
 
-**Particularly note the following, pronounced like:**
+**Particularly note the following:**
 
 | Letter | Pronunciation |
 | --- | --- |
