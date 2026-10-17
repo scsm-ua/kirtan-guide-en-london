@@ -20,6 +20,8 @@ alt_first_lines:
 
 “O son of Nanda Mahārāj, I am Your eternal servant, yet because of my own karma, I have fallen into this terrible ocean of birth and death. Please accept this fallen soul and consider me a particle of dust at Your holy lotus feet.”
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

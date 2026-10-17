@@ -20,6 +20,8 @@ alt_first_lines:
 
 “O Lord, I have no desires to accumulate wealth, followers, beautiful women, or salvation. My only prayer is for Your causeless devotional service, birth after birth.”
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

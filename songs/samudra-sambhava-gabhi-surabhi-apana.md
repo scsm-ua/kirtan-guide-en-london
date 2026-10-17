@@ -20,6 +20,8 @@ alt_first_lines: atha govardhane ramye surabhir gauḥ samudra-jā
     govinda-kuṇḍe viśade yaḥ snāti kṛṣṇa-mānasaḥ
     prāpnoti kṛṣṇa-sārūpyaṁ maithilendra na saṁśayaḥ
 
+---
+
 *Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj’s corresponding Bengali composition:*
 
 #### 1

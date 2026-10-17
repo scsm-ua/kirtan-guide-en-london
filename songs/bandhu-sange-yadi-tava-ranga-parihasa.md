@@ -19,6 +19,8 @@ alt_first_lines: smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛ
 
 My dear friend, if you are indeed attached to your worldly friends, do not look at the smiling face of Lord Govinda as He stands on the bank of the Yamunā at Keśī Ghāṭa. Casting sidelong glances, He rests the tender blossoms of His lips upon His flute. His transcendental body, bending in three places, appears very bright in the moonlight.
 
+---
+
 *Corresponding Bengali composition by unknown composer, from the Maṭh’s Śrī Gauḍīya Gitāñjali*
 
 ## Bandhu-saṅge

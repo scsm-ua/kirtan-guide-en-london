@@ -2,6 +2,9 @@
 page: 231
 author: Śrīla Jayadev Goswāmī
 first_line: pralaya-payodhi-jale dhṛtavān asi vedaṁ
+styles:
+  verses:
+    wide: false
 ---
 
 # Śrī Daśāvatār Stotram
