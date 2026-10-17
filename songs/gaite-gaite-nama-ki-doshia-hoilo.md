@@ -18,6 +18,8 @@ alt_first_lines:
 
 “O Govinda! Without You, the world is empty. Tears are flooding my eyes like rain, and a moment seems like forever.”
 
+---
+
 *Corresponding Bengali composition by Śrīla Bhakti Vinod Ṭhākur:*
 
 #### 1

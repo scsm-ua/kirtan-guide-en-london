@@ -18,6 +18,8 @@ alt_first_lines:
 
 (1) Offering gifts, (2) accepting gifts, (3) revealing one’s mind in confidence, (4) enquiring confidentially, (5) accepting prasād, and (6) offering prasād, are the six symptoms of love shared by one devotee and another.
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

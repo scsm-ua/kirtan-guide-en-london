@@ -20,6 +20,8 @@ alt_first_lines:
 
 The holy place known as Mathurā is spiritually superior to Vaikuṇṭha, the transcendental world, because the Lord appeared there. Superior to Mathurā-purī is the transcendental forest of Vṛndāvan because of Kṛṣṇa’s Rāsa-līlā Pastimes. And superior to the forest of Vṛndāvan is Govardhan Hill, for it was raised by the divine hand of Śrī Kṛṣṇa and was the site of His various loving Pastimes. And, above all, the superexcellent Śrī Rādhā Kuṇḍa stands supreme, for it is overflooded with the ambrosial nectarean prema of the Lord of Gokul, Śrī Kṛṣṇa. Where, then, is that intelligent person who is unwilling to serve this divine Rādhā Kuṇḍa, which is situated at the foot of Govardhan Hill?
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

@@ -20,6 +20,8 @@ alt_first_lines:
 
 The Holy Name, Character, Pastimes and Activities of Kṛṣṇa are all transcendentally sweet like sugar candy. Although the tongue of one afflicted by the jaundice of avidyā (ignorance) cannot taste anything sweet, it is wonderful that simply by carefully chanting these sweet Names every day, a natural relish awakens within one’s tongue, and one’s disease is gradually destroyed at the root.
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1
