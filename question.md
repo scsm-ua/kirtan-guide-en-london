@@ -1,6 +1,6 @@
 # Question 1
 
-https://kirtan.site/en-2026/hari-nama-mahamantra-sarva-mantra-sara/
+https://kirtan.site/en/hari-nama-mahamantra-sarva-mantra-sara/
 
 Verse 3
 
@@ -16,7 +16,7 @@ use `“` `”`
 
 Do we need text (optional ākhars) if no page break.
 
-https://kirtan.site/en-2026/shri-guru-charana-padma-kevala-bhakati/
+https://kirtan.site/en/shri-guru-charana-padma-kevala-bhakati/
 
 Do we need text: "Optional ākhars:" or its just to point to next page?
 
@@ -26,7 +26,7 @@ Optional ākhars:
 
 # Question 3
 
-https://kirtan.site/en-2026/sarvasva-tomara-charane-sanpiya/
+https://kirtan.site/en/sarvasva-tomara-charane-sanpiya/
 
 sa̐piyā or sā̐piyā
     sarvasva tomāra, charaṇe sa̐piyā,
@@ -39,7 +39,7 @@ Other songbook in text using "sa̐piyā"
 
 # Question 4
 
-https://kirtan.site/en-2026/bandhu-sange-yadi-tava-ranga-parihasa/
+https://kirtan.site/en/bandhu-sange-yadi-tava-ranga-parihasa/
 
 smerāṁ bhaṅgī-traya-parichitāṁ sāchi-vistīrṇa-dṛṣṭiṁ
 
@@ -48,7 +48,7 @@ Index using:
 
 # Question 5
 
-https://kirtan.site/en-2026/shri-krishna-chaitanya-prabhu-daya-kara-more/
+https://kirtan.site/en/shri-krishna-chaitanya-prabhu-daya-kara-more/
 
 Do we need number 8 for verse: dayā kara prabhupāda śrī-gaura-prakāśa?
 Or any other separator. Now it looks line same verse as 7.
