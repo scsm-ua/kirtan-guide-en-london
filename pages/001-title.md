@@ -34,6 +34,6 @@ With standardised transliteration\
 and additional selected kīrtans from\
 the Maṭh’s original Bengali Śrī Gauḍīya-Gītāñjali
 
-![SCSM Logo](https://github.com/scsm-ua/songbook-resources/blob/main/images/en-2026/1.png?raw=true)
+![SCSM Logo](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/1.png?raw=true)
 
 </div>

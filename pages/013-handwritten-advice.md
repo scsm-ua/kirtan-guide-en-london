@@ -9,7 +9,7 @@ title: Handwritten Advice
 
 *by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj*
 
-![Handwritten advice photo](https://github.com/scsm-ua/songbook-resources/blob/main/images/en-2026/2.png?raw=true)
+![Handwritten advice photo](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/2.png?raw=true)
 
 </div>
 
