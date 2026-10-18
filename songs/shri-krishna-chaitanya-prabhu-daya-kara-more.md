@@ -57,6 +57,8 @@ O my Lords, Śrī Svarūp Dāmodar, Śrī Sanātan, Śrī Rūpa and Śrī Raghun
 
 Please grant Your blessings O Lord Śrī Śrīnivās Āchārya, for the company of Śrī Rāmachandra Chakravartī, Narottam Dās does pray.
 
+#### 8
+
     dayā kara prabhupāda śrī-gaura-prakāśa
     tava jana-kṛpā māge ei adhama dāsa
 
