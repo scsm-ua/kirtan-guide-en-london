@@ -18,6 +18,8 @@ alt_first_lines:
 
 One who is humbler than a blade of grass, more forbearing than a tree, who gives due honour to others without desiring it for himself is qualified to always chant the Holy Name of Kṛṣṇa.
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

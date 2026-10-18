@@ -20,6 +20,8 @@ alt_first_lines:
 
 “O Lord, when will tears flow from my eyes like waves, and my voice tremble in ecstasy? When will the hairs of my body stand on end while chanting Your Holy Name?”
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

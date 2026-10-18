@@ -37,8 +37,8 @@ His Pastimes, Nature, Form, also think not separate.
 
 #### 3
 
-    ‘‘guru kṛṣṇa-rūpa hana śāstrera pramāṇe
-    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne’’
+    “guru kṛṣṇa-rūpa hana śāstrera pramāṇe
+    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne”
     se gurute martya-buddhi avajñādi tyaji’
     iṣṭa-lābha kara, nirantara nāma bhaji’
 

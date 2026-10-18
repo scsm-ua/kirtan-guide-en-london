@@ -22,6 +22,8 @@ The Holy Name of Kṛṣṇa thoroughly cleanses the mirror of the heart and ext
 
 Again and again tasting nectar, the soul dives and surfaces in the ever-increasing ocean of ecstatic joy. All phases of the self of which we may conceive are fully satisfied and purified, and at last conquered by the all-auspicious influence of the Holy Name of Kṛṣṇa.
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

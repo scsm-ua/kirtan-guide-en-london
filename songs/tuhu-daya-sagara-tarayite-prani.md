@@ -20,6 +20,8 @@ alt_first_lines:
 
 “O my Lord, Your Holy Name bestows auspiciousness upon all. And You have unlimited Names such as Kṛṣṇa and Govinda by which You reveal Yourself. In Your many Holy Names You have kindly invested all Your transcendental potency. And in chanting these Names, there are no strict rules concerning time or place. Out of Your causless mercy, You have descended in the form of divine sound, but my great misfortune is that I have no love for Your Holy Name.”
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

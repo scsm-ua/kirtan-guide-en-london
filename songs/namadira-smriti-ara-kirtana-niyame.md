@@ -20,6 +20,8 @@ alt_first_lines:
 
 The essence of all advice is that one should utilise one’s full time – twenty-four hours a day – in nicely chanting and remembering the Lord’s divine Name, transcendental Form, Qualities, and eternal Pastimes, thereby gradually engaging one’s tongue and mind. In this way one should reside in Vraja (Goloka Vṛndāvan Dhām) and serve Kṛṣṇa under the guidance of devotees. One should follow in the footsteps of the Lord’s beloved devotees, who are deeply attached to His devotional service.
 
+---
+
 *Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
 
 #### 1

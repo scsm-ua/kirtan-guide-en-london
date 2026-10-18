@@ -1,3 +1,16 @@
+### Intro
+
+- [Kīrtan Guide](pages/001-title.md)
+- [Printed and Published](pages/002-printed-and-published.md)
+- [Framework of The Daily Programme](pages/003-programme.md)
+- [Foreword to this Twelfth Edition](pages/007-foreword.md)
+- [Preface to the First Bengali Edition](pages/009-preface.md)
+- [The Elixir of Life](pages/011-elixir.md)
+- [Handwritten Advice](pages/013-handwritten-advice.md)
+- [My Advice](pages/014-my-advice.md)
+- [Bengali – a brief pronunciation guide](pages/335-bengali.md)
+- [Śrī Chaitanya Sāraswat Maṭh](pages/340-end.md)
+
 ### Vandanā
 
 - [Vandanā](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
