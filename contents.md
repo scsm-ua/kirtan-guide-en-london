@@ -13,7 +13,7 @@
 
 ### Vandanā
 
-- [Vandanā](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
+- [Vandanā: vande ’haṁ śrī-guroḥ](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
 - [Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj](songs/gurvabhishta-supurakam-guru-ganair.md)
 - [Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj](songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md)
 - [Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur](songs/shri-siddhanta-sarasvatiti-vidito.md)
@@ -24,7 +24,7 @@
 - [Śrī Śrī Guru Gaurāṅga Rādhā Madana-Mohanjīu](songs/jayatam-suratau-pangor.md)
 - [Śrī Śrī Guru-Gaurāṅga-Gāndharvā-Govindasundarjīu](songs/divyad-vrindaranya-kalpa-drumadhah.md)
 - [Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu](songs/shriman-rasa-rasarambhi.md)
-- [Vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
+- [Vandanā: vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
 - [Śrīla A.C. Bhaktivedānta Swāmī Prabhupād](songs/namah-om-vishnupadaya-krishna.md)
 - [The Glory of Śrī Chaitanya Sāraswat Maṭh](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Jaya Dhvani](songs/jaya-sa-parikara.md)
@@ -52,12 +52,18 @@
 - [Vibhāvarī Śeṣa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [Ṭhākura Vaiṣṇava-gaṇa](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
 - [Nāma-saṅkīrtan](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
+
+### Prasādam
+
 - [Śrī Bhoga Ārati Gīti](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
 - [Honouring Prasādam](songs/mahaprasade-govinde-nama-brahmani.md)
 - [Śrī Prasāda-sevāya Gīti](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 - [Śāntipure Prasāda-sevana](songs/eka-dina-shiantipure.md)
 - [Nabadwīpe Prasāda-sevana](songs/bhai-re-shiachira-angane-kabhu.md)
 - [Nīlāchale Prasāda-sevana](songs/bhai-re-eka-dina-nilachale-prasada-sevana-kale.md)
+
+### Ārati
+
 - [Śrī Gaura Ārati](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
 - [Śrī Sāraswat Ārati](songs/jayare-jayare-jaya-gaura-sarasvati.md)
 - [Dainya Prārthanā Gīti](songs/kobe-shri-chaitanya-more-koribena-daya.md)
@@ -69,13 +75,13 @@
 
 ### Śrī Śrī Prema-dhāma-deva Stotram
 
-- [1-10. Saturday](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
-- [11-20. Sunday](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
-- [21-30. Monday](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
-- [31-40. Tuesday](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
-- [41-50. Wednesday](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
-- [51-60. Thursday](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
-- [61-72. Friday](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
+- [Verses 1-10. Saturday](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [Verses 11-20. Sunday](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [Verses 21-30. Monday](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [Verses 31-40. Tuesday](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [Verses 41-50. Wednesday](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [Verses 51-60. Thursday](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [Verses 61-72. Friday](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
 ### Kirtans
 
@@ -139,37 +145,52 @@
 
 ### Śrī Śikṣāṣṭakam
 
-- [1. Pita-varaṇa kali](songs/pita-varana-kali-pavana-gora.md)
-- [2. Tuhu̐ dayā-sāgara](songs/tuhu-daya-sagara-tarayite-prani.md)
-- [3. Śrī-Kṛṣṇa-kīrtane jodi](songs/shri-krishna-kirtane-jodi-manasa-tohara.md)
-- [4. Prabhu tava pada](songs/prabhu-tava-pada-juge-mora-nivedana.md)
-- [5. Anādi karama phole](songs/anadi-karama-phole.md)
-- [– The Nectarean Holy Name](songs/tunde-tandavini-ratim.md)
-- [6. Aparādha-phole mama](songs/aparadha-phole-mama.md)
-- [– Honouring Rāga-mārg From Afar](songs/matala-hari-jana-kirtana-range.md)
-- [7a. Gāite gāite nāma](songs/gaite-gaite-nama-ki-doshia-hoilo.md)
-- [7b. Gāite ‘govinda’–nām](songs/gaite-govinda-nam-upajilo-bhava-gram.md)
-- [7c. Sakhī go kemote](songs/sakhi-go-kemote-dhoribo-paran.md)
-- [8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
-- [8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
+- [Verse 1. Cheto-darpaṇa-mārjanaṁ](songs/pita-varana-kali-pavana-gora.md)
+- [Verse 2. Nāmnām akāri bahudhā nija-sarva-śaktis](songs/tuhu-daya-sagara-tarayite-prani.md)
+- [Verse 3. Tṛṇād api sunīchena taror iva sahiṣṇunā](songs/shri-krishna-kirtane-jodi-manasa-tohara.md)
+- [Verse 4. Na dhanaṁ na janaṁ na sundarīṁ](songs/prabhu-tava-pada-juge-mora-nivedana.md)
+- [Verse 5. Ayi nanda-tanuja kiṅkaraṁ](songs/anadi-karama-phole.md)
+- [Verse 6. Nayanaṁ galad-aśru-dhārayā](songs/aparadha-phole-mama.md)
+- [Verse 7. Yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam](songs/gaite-gaite-nama-ki-doshia-hoilo.md)
+- [Verse 8. Āśliṣya vā pāda-ratāṁ pinaṣṭu mām](songs/bondhu-gon-shiunoho-vachana-mora.md)
+- [Song 1. Pita-varaṇa kali](songs/pita-varana-kali-pavana-gora.md)
+- [Song 2. Tuhu̐ dayā-sāgara](songs/tuhu-daya-sagara-tarayite-prani.md)
+- [Song 3. Śrī-Kṛṣṇa-kīrtane jodi](songs/shri-krishna-kirtane-jodi-manasa-tohara.md)
+- [Song 4. Prabhu tava pada](songs/prabhu-tava-pada-juge-mora-nivedana.md)
+- [Song 5. Anādi karama phole](songs/anadi-karama-phole.md)
+- [Song 6. Aparādha-phole mama](songs/aparadha-phole-mama.md)
+- [Song 7a. Gāite gāite nāma](songs/gaite-gaite-nama-ki-doshia-hoilo.md)
+- [Song 7b. Gāite ‘govinda’–nām](songs/gaite-govinda-nam-upajilo-bhava-gram.md)
+- [Song 7c. Sakhī go kemote](songs/sakhi-go-kemote-dhoribo-paran.md)
+- [Song 8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
+- [Song 8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
 
 ### Śrī Śrī Upadeśāmṛta
 
-- [1. Vācho vegaṁ manasaḥ krodha-vegaṁ](songs/guru-kripa-bale-labhi-sambandha-vijniana.md)
-- [– The Real Essence of Nectar](songs/krishna-lilamrita-sara-tara-shiata-shiata-dhara.md)
-- [2. Atyāhāraḥ prayāsaś cha prajalpo niyamāgrahaḥ](songs/atyahara-prayasa-prajalpa-jana-sanga.md)
-- [– The Highest Śloka](songs/shri-shrimad-bhagavat-padambuja.md)
-- [3. Utsāhān niśchayād dhairyāt tat-tat-karma-pravartanāt](songs/anukulya-sankalpera-chhaya-anga-sara.md)
-- [4. Dadāti pratigṛhṇāti guhyam ākhyāti pṛchchhati](songs/asat-sanga-tyaji-sadhu-sanga-kara-bhai.md)
-- [5. Kṛṣṇeti yasya giri taṁ manasādriyeta](songs/asat-lakshana-hina-gaya-krishna-nama.md)
-- [6. Dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair](songs/nira-dharma-gata-phena-pankadi-samyukta.md)
-- [7. Syāt kṛṣṇa-nāma-charitādi-sitāpy avidyā](songs/avidya-pittera-doshe-dushta-rasanaya.md)
-- [8. Tan-nāma-rūpa-charitādi-sukīrtanānu](songs/namadira-smriti-ara-kirtana-niyame.md)
-- [9. Vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād](songs/vaikuntha-apeksha-shreshtha-mathura-mandala.md)
-- [10. Karmibhyaḥ parito hareḥ priyatayā vyaktiṁ yayur jñāninas](songs/chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha.md)
-- [11. Kṛṣṇasyochchaiḥ praṇaya-vasatiḥ preyāsibhyo ’pi rādhā](songs/sakala-preyasi-shreshtha-vrishabhanu-suta.md)
+- [Verse 1. Vācho vegaṁ manasaḥ krodha-vegaṁ](songs/guru-kripa-bale-labhi-sambandha-vijniana.md)
+- [Verse 2. Atyāhāraḥ prayāsaś cha prajalpo niyamāgrahaḥ](songs/atyahara-prayasa-prajalpa-jana-sanga.md)
+- [Verse 3. Utsāhān niśchayād dhairyāt tat-tat-karma-pravartanāt](songs/anukulya-sankalpera-chhaya-anga-sara.md)
+- [Verse 4. Dadāti pratigṛhṇāti guhyam ākhyāti pṛchchhati](songs/asat-sanga-tyaji-sadhu-sanga-kara-bhai.md)
+- [Verse 5. Kṛṣṇeti yasya giri taṁ manasādriyeta](songs/asat-lakshana-hina-gaya-krishna-nama.md)
+- [Verse 6. Dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair](songs/nira-dharma-gata-phena-pankadi-samyukta.md)
+- [Verse 7. Syāt kṛṣṇa-nāma-charitādi-sitāpy avidyā](songs/avidya-pittera-doshe-dushta-rasanaya.md)
+- [Verse 8. Tan-nāma-rūpa-charitādi-sukīrtanānu](songs/namadira-smriti-ara-kirtana-niyame.md)
+- [Verse 9. Vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād](songs/vaikuntha-apeksha-shreshtha-mathura-mandala.md)
+- [Verse 10. Karmibhyaḥ parito hareḥ priyatayā vyaktiṁ yayur jñāninas](songs/chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha.md)
+- [Verse 11. Kṛṣṇasyochchaiḥ praṇaya-vasatiḥ preyāsibhyo ’pi rādhā](songs/sakala-preyasi-shreshtha-vrishabhanu-suta.md)
+- [Song 1. Guru-kṛpā-bale labhi’ sambandha-vijñāna](songs/guru-kripa-bale-labhi-sambandha-vijniana.md)
+- [Song 2. Atyāhāra prayāsa prajalpa jana-saṅga](songs/atyahara-prayasa-prajalpa-jana-sanga.md)
+- [Song 3. Ānukūlya-saṅkalpera chhaya aṅga sāra](songs/anukulya-sankalpera-chhaya-anga-sara.md)
+- [Song 4. Asat-saṅga tyāji’ sādhu-saṅga kara bhāi](songs/asat-sanga-tyaji-sadhu-sanga-kara-bhai.md)
+- [Song 5. Asat lakṣaṇa-hīna gāya kṛṣṇa-nāma](songs/asat-lakshana-hina-gaya-krishna-nama.md)
+- [Song 6. Nīra-dharma-gata phena-paṅkādi-saṁyukta](songs/nira-dharma-gata-phena-pankadi-samyukta.md)
+- [Song 7. Avidyā pittera doṣe duṣṭa rasanāya](songs/avidya-pittera-doshe-dushta-rasanaya.md)
+- [Song 8. Nāmādira smṛti āra kīrtana niyame](songs/namadira-smriti-ara-kirtana-niyame.md)
+- [Song 9. Vaikuṇṭha apekṣā śreṣṭha māthura-maṇḍala](songs/vaikuntha-apeksha-shreshtha-mathura-mandala.md)
+- [Song 10. Chid-anveṣī jñānī jaḍa-karmī ha-ite śreṣṭha](songs/chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha.md)
+- [Song 11. Sakala preyasī-śreṣṭhā vṛṣabhānu-sutā](songs/sakala-preyasi-shreshtha-vrishabhanu-suta.md)
 
-### Other
+### Other songs
 
 - [Śrī Guru Paramparā](songs/krishna-hoite-chatur-mukha.md)
 - [Śrī Dayita Dāsa Praṇati Pañchakam](songs/bhayabhanjana-jayashiamsana.md)
@@ -225,3 +246,10 @@
 - [Śrī Guru-praśastiḥ](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)
 - [Praṇati-pañchakam](songs/nava-nalina-ganjitam-kusuma-dala.md)
 - [Māyā Duratyayā](songs/maha-bhaya-shiankula-e-bhava-tarangini.md)
+
+### Additional ślokas
+
+- [The Nectarean Holy Name](songs/tunde-tandavini-ratim.md)
+- [Honouring Rāga-mārg From Afar](songs/matala-hari-jana-kirtana-range.md)
+- [The Real Essence of Nectar](songs/krishna-lilamrita-sara-tara-shiata-shiata-dhara.md)
+- [The Highest Śloka](songs/shri-shrimad-bhagavat-padambuja.md)
