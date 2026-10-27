@@ -4,7 +4,7 @@ no-author: 1
 first_line: vṛndāyai tulasī-devyai
 ---
 
-# Vṛndāyai tulasī-devyai
+# Vandanā
 
     vṛndāyai tulasī-devyai priyāyai keśavasya cha
     kṛṣṇa-bhakti-prade devi satyavatyai namo namaḥ
