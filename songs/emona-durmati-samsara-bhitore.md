@@ -2,7 +2,6 @@
 page: 169
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (prabhu he!) emana durmati saṁsāra bhitare
-alt_first_lines: emana durmati saṁsāra bhitare
 ---
 
 # Dainyātmikā
@@ -11,7 +10,7 @@ alt_first_lines: emana durmati saṁsāra bhitare
 
 #### 1
 
-    prabhu he!
+    (prabhu he!)
     emana durmati    saṁsāra bhitare
         paḍiyā āchhinu āmi
     tava nija-jana    kona mahājane
