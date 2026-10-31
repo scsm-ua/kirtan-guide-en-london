@@ -2,8 +2,6 @@
 page: 73
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (kibā) jaya jaya gorāchā̐der āratika śobhā
-alt_first_lines: jaya jaya gorāchā̐der āratika śobhā
-verse parentheses: non bold
 ---
 
 # Śrī Gaura Ārati

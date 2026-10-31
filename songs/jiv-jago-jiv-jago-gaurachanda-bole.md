@@ -2,7 +2,6 @@
 page: 55
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: jīva jāga, jīva jāga, gorāchā̐da bale
-verse parentheses: non bold
 ---
 
 # Aruṇodaya-kīrtan

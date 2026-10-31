@@ -2,7 +2,6 @@
 page: 258
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: gopīnāth, āmāra upāya nāi
-verse parentheses: non bold
 ---
 
 # Nivedana

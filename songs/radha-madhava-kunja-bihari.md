@@ -2,7 +2,6 @@
 page: 270
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (jaya) rādhā-mādhava (jaya) kuñja-vihārī
-verse parentheses: non bold
 ---
 
 # Jaya Rādhā-Mādhava

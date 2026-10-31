@@ -2,7 +2,6 @@
 page: 122
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: nadīyā-godrume nityānanda mahājana
-verse parentheses: non bold
 ---
 
 # Ājñā Ṭahal

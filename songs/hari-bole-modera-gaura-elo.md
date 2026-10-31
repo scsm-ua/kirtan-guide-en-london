@@ -2,7 +2,6 @@
 page: 150
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: ‘hari’ bale modera gaura ela
-verse parentheses: non bold
 ---
 
 # Śrī Nagara Kīrtana 8

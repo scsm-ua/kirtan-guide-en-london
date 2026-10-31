@@ -3,6 +3,10 @@ page: 86
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 first_line: deva-siddha-mukta-yukta-bhakta-vṛnda-vanditaṁ
 alt_first_lines: Śrī Śrī Prema-dhāma-deva Stotram – 1-10. Saturday
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

@@ -2,7 +2,6 @@
 page: 167
 author: Śrīla Govinda Dās Kavirāj
 first_line: bhajahu̐ re mana śrī-nanda-nandana
-verse parentheses: non bold
 ---
 
 # Bhajahu̐ Re Mana

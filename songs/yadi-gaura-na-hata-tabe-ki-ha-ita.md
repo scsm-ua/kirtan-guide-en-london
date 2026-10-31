@@ -2,7 +2,6 @@
 page: 136
 author: Śrīla Vāsudeva Ghoṣ
 first_line: yadi gaura nā hata tabe ki ha-ita
-verse parentheses: non bold
 ---
 
 # Yadi Gaura Nā Hata

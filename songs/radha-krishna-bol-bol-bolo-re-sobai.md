@@ -2,7 +2,6 @@
 page: 149
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: ‘rādhā-kṛṣṇa’ bal bal balare sabāi
-verse parentheses: non bold
 ---
 
 # Śrī Nagara Kīrtana 4

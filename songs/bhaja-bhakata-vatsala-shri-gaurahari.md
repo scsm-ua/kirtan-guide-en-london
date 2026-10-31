@@ -2,7 +2,6 @@
 page: 66
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: bhaja bhakata-vatsala śrī-gaurahari
-verse parentheses: non bold
 ---
 
 # Śrī Bhoga Ārati Gīti

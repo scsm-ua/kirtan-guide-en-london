@@ -2,7 +2,6 @@
 page: 275
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: janama saphala tāra kṛṣṇa-daraśana yāra
-verse parentheses: non bold
 ---
 
 # Rūpa-kīrtan
