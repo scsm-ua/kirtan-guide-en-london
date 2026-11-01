@@ -2,8 +2,6 @@
 page: 81
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: (ohe) vaiṣṇava ṭhākura dayāra sāgara
-alt_first_lines: vaiṣṇava ṭhākura dayāra sāgara
-verse parentheses: non bold
 ---
 
 # Śrī Vaiṣṇava-mahimā Gīti
@@ -26,7 +24,7 @@ verse parentheses: non bold
     chhaya sat-saṅga    deha’ he āmāre
         basechhi saṅgera āśe
 
-Subjugate the six urges, rectify the six defects, bestow the six good qualities upon this servitor. Please grant me the six kinds of saintly association. I sit at your feet aspiring for that association.\*
+Subjugate the six urges, rectify the six defects, bestow the six good qualities upon this servitor. Please grant me the six kinds of saintly association. I sit at your feet aspiring for that association *(see footnote)*.
 
 #### 3
 
@@ -54,7 +52,7 @@ Kṛṣṇa is yours. You can give Kṛṣṇa. You have that power. I who am be
 
 (I run after you. With the hope of attaining the wealth of Kṛṣṇa, I run after you. If you desire to give, you can give Kṛṣṇa. Kṛṣṇa is the wealth of your heart, and if you desire to give, you can give. You have the power to give Kṛṣṇa, and if you desire to give, you can give.)
 
-\***Footnote to verse 2:**
+## Footnote to verse 2
 
 The six urges are those of speech, the mind, anger, the tongue, the belly, and the genitals.
 

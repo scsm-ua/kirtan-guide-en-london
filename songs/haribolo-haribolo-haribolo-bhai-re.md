@@ -2,7 +2,6 @@
 page: 152
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: haribala haribala haribala bhāi re
-verse parentheses: non bold
 ---
 
 # Haribala Bhāi Re

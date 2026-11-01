@@ -2,7 +2,6 @@
 page: 128
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: ‘dayāl nitāi chaitanya’ ba’le nāch re āmār mana
-verse parentheses: non bold
 ---
 
 # Dayāl Nitāi Chaitanya

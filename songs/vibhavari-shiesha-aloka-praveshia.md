@@ -2,7 +2,6 @@
 page: 62
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: vibhāvarī śeṣa āloka praveśa
-verse parentheses: non bold
 ---
 
 # Vibhāvarī Śeṣa

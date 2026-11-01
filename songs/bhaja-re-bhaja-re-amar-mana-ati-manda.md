@@ -2,7 +2,6 @@
 page: 60
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: bhaja re bhaja re āmār mana ati manda
-verse parentheses: non bold
 ---
 
 # Bhajan-gīti

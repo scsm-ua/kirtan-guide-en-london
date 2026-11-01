@@ -2,7 +2,6 @@
 page: 65
 author: Śrīla Narottam Dās Ṭhākur
 first_line: hari haraye namaḥ kṛṣṇa yādavāya namaḥ
-verse parentheses: non bold
 ---
 
 # Nāma-saṅkīrtan

@@ -2,7 +2,6 @@
 page: 183
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: kabe ha’be bala se-dina āmāra
-verse parentheses: non bold
 ---
 
 # Kabe Ha’be Bala

@@ -2,7 +2,6 @@
 page: 53
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: udila aruṇa pūrava-bhāge
-verse parentheses: non bold
 ---
 
 # Aruṇodaya-kīrtan
