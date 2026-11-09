@@ -2,6 +2,9 @@
 page: 46
 author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 first_line: jaya ‘guru-mahārāja’ yati-rājeśvara
+styles:
+  verses:
+    align: left
 ---
 
 # Śrī Guru-ārati-stuti
