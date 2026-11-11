@@ -230,7 +230,7 @@
 - [Guṇa-kīrtana](songs/shiuno-he-rasika-jon-krishna-guna-aganon.md)
 - [Śrī-Rūpa-Mañjarī-pada](songs/shri-rupa-manjari-pada-sei-mora-sampada.md)
 - [Śrī Rādhāṣṭaka – Kīrtan One](songs/radhika-charana-padma-sakala-shreyera.md)
-- [Śrī Rādhāṣṭaka – Kīrtan Two](songs/virajara-pare-shiuddha-paravyoma-dhama.md)
+- [Śrī Rādhāṣṭaka – Kīrtan Two](songs/virajar-pare-shiuddha-paravyoma-dham.md)
 - [Śrī Rādhāṣṭaka – Kīrtan Eight](songs/radha-bhajane-jodi-moti-nahi-bhela.md)
 - [Rādhā-kuṇḍataṭa-kuñja-kuṭīra](songs/radhakundatata-kunjakutira.md)
 - [Śrī Śrī Rādhikā-stutiḥ](songs/radhe-jaya-jaya-madhava-dayite.md)

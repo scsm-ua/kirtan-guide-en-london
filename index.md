@@ -239,7 +239,7 @@
 - [vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam](songs/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.md)
 - [vibhāvarī śeṣa āloka praveśa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [vimala hema jini tanu anupama re!](songs/vimala-hemajin-tanu-anupama-re.md)
-- [virajāra pāre śuddha paravyoma-dhāma](songs/virajara-pare-shiuddha-paravyoma-dhama.md)
+- [virajāra pāre śuddha paravyoma-dhāma](songs/virajar-pare-shiuddha-paravyoma-dham.md)
 - [yabe rūpa-sanātana vraje gelā dui jana](songs/yabe-rupa-sanatana-vraje-gela-dui-jana.md)
 - [yadi gaura nā hata tabe ki ha-ita](songs/yadi-gaura-na-hata-tabe-ki-ha-ita.md)
 - [yadi te hari-pāda-saroja-sudhā](songs/yadi-te-hari-pada-saroja-sudha.md)
