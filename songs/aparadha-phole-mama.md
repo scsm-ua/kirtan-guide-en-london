@@ -4,6 +4,7 @@ author: Śrīla Bhakti Vinod Ṭhākur
 first_line: aparādha-phale mama chitta bhela vajra-sama
 alt_first_lines:
   - Śrī Śikṣāṣṭakam – Verse 6
+  - Śrī Śikṣāṣṭakam – Kīrtan 6
   - nayanaṁ galad-aśru-dhārayā
 ---
 

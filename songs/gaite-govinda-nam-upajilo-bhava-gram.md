@@ -2,12 +2,12 @@
 page: 203
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: gāite govinda-nāma upajila bhāva-grāma
-alt_first_lines: Śrī Śikṣāṣṭakam – Verse 7 (b)
+alt_first_lines: Śrī Śikṣāṣṭakam – Kīrtan 7 (b)
 ---
 
 # Śrī Śikṣāṣṭakam
 
-## Verse Seven (b)
+## Kīrtan Seven (b)
 
 *Second related composition by Śrīla Bhakti Vinod Ṭhākur:*
 

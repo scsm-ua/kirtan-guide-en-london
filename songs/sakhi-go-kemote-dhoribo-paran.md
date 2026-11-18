@@ -2,12 +2,12 @@
 page: 204
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: sakhi go kemate dhariba parāṇa
-alt_first_lines: Śrī Śikṣāṣṭakam – Verse 7 (c)
+alt_first_lines: Śrī Śikṣāṣṭakam – Kīrtan 7 (c)
 ---
 
 # Śrī Śikṣāṣṭakam
 
-## Verse Seven (c)
+## Kīrtan Seven (c)
 
 *Third related composition by Śrīla Bhakti Vinod Ṭhākur:*
 

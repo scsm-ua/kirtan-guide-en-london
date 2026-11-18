@@ -2,12 +2,12 @@
 page: 206
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: yoga-pīṭhopari-sthita aṣṭa-sakhī-suveṣṭita
-alt_first_lines: Śrī Śikṣāṣṭakam – Verse 8 (b)
+alt_first_lines: Śrī Śikṣāṣṭakam – Kīrtan 8 (b)
 ---
 
 # Śrī Śikṣāṣṭakam
 
-## Verse Eight (b)
+## Kīrtan Eight (b)
 
 *Second related composition by Śrīla Bhakti Vinod Ṭhākur:*
 

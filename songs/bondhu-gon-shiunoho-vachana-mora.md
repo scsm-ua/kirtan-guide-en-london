@@ -3,7 +3,8 @@ page: 205
 author: Śrīla Bhakti Vinod Ṭhākur
 first_line: bandhu-gaṇa! śunaha vachana mora
 alt_first_lines:
-  - Śrī Śikṣāṣṭakam – Verse 8 (a)
+  - Śrī Śikṣāṣṭakam – Verse 8
+  - Śrī Śikṣāṣṭakam – Kīrtan 8 (a)
   - āśliṣya vā pāda-ratāṁ pinaṣṭu mām
 ---
 
