@@ -1,5 +1,6 @@
 ### Intro
 
+- [About Project](pages/about.md)
 - [Kīrtan Guide](pages/001-title.md)
 - [Printed and Published](pages/002-printed-and-published.md)
 - [Framework of The Daily Programme](pages/003-programme.md)
