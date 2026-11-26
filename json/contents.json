@@ -3,6 +3,11 @@
     "name": "Intro",
     "items": [
       {
+        "id": "about",
+        "filepath": "pages/about.md",
+        "title": "About Project"
+      },
+      {
         "id": "001-title",
         "filepath": "pages/001-title.md",
         "title": "Kīrtan Guide"
